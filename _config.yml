@@ -16,7 +16,9 @@ header:
     - name: Home
       slug: /
     - name: Work
+      slug: /work
     - name: Blog
+      slug: /blog
 
 footer:
   show_powered_by: true
