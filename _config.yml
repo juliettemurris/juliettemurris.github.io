@@ -26,9 +26,9 @@ footer:
       link: mailto:yourmail@domain.com
   follow:
     - name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
+      link: http://linkedin.com/in/juliettemurris
     - name: GitHub
-      link: http://github.com/YourGitHubUsername
+      link: http://github.com/juliettemurris
 
 # Build settings
 markdown: kramdown
