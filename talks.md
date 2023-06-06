@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Talks & Events
+title: Talks & events
 slug: /talks
 items:
   - title: My Interest 1
