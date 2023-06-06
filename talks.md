@@ -2,19 +2,23 @@
 layout: work
 title: Talks & events
 slug: /talks
-items:
-  - title: My Interest 1
-    image:
-      src: /assets/img/work/water.png
-      alt: water
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-  - title: My Interest 2
-    image:
-      src: /assets/img/work/sand.png
-      alt: sand
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 ---
 
-This is an example of a "Work" page, displaying your work, your interests, your projects.
-<br />
-<br />
+### **Forthcoming**
+I am delighted to participate in several talks and poster sessions from conferences around Europe this summer. Come and say hi should you attend Journées de Statistique in Brussel 🇧🇪, ICCB/ESMB in Lyon 🇫🇷, ISCB in Milan 🇮🇹 or SAfJR in Ulm 🇬🇪.
+
+### Previous talks
+* Introducing recurrent events in high-dimensional frameworks [slides] *Journées de Biostatistique 2022*, Rennes, France
+
+### Conference posters
+* Novel data visualization and unsupervised machine learning techniques to support optimal management of toxicity profiles of encorafenib plus cetuximab in patients with BRAFV600E-mutant metastatic colorectal cancer
+*ESMO 2023*, Barcelona, Spain
+
+* Data Visualization in Real-World Studies to Aid Understanding and Interpretation
+*ISPOR Europe 2022*, Vienna, Austria
+
+* Key notions in health technology assessment of AI-based medical devices: what healthcare stakeholders need to know 
+*Statistics and Biopharmacy 2022*, Paris, France
+
+* Towards filling the gap around recurrent events in high dimensional framework: literature review and early comparison
+*Statistics and Biopharmacy 2022*, Paris, France
