@@ -11,7 +11,7 @@ Hi, Welcome to my webpage!
 I am a PhD candidate in Biostatistics within the <a href="https://team.inria.fr/heka/fr/">HeKA team</a> (Inserm-Inria initiative) hosted at <a href="https://parisantecampus.fr/">PariSanté Campus</a>. My research is under the supervision of <a href="https://fr.linkedin.com/in/sandrine-katsahian-98555679">Pr. Sandrine Katsahian</a> from the CIC14-18 and Pompidou hospital (AP-HP) and <a href="https://fr.linkedin.com/in/audrey-lavenu-7b160243">Audrey Lavenu</a> from <a href="https://irmar.univ-rennes.fr/">IRMAR</a>.
 <p>
 
-I am primarily interested in survival analyses, specifically for recurrent events in medical research.
+I am primarily interested in survival analyses in medical research, with a focus on recurrent events.
 <p>
 
 My PhD is a Cifre contract involving [Pierre Fabre laboratories](https://www.pierre-fabre.com/fr). This way, I am also a part-time engineer/biostatistician in the R&D department.
