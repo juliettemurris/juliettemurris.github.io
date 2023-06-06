@@ -18,11 +18,8 @@ I am primarily interested in survival analyses in medical research, with a focus
 My PhD research benefits from a Cifre grant involving <a href="https://www.pierre-fabre.com/fr">Pierre Fabre laboratories</a>. This way, I am also a part-time engineer/biostatistician in the R&D department.
 <p>
 
-<strong>Short CV:</strong>
-<ul>
+<strong>Short CV:</strong><ul>
   <li> I graduated from the <a href="https://www.ensai.fr/">National School of Statistics</a> in France in 2018 with a major in Data Science for Healthcare;
   <li> I worked for 2.5 years at <a href="https://www.amaris.com/">Amaris</a> as a consultant in Health Economics and Market Access;
   <li> I joined the <a href="https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/sante-publique-K2NDGZO3/master-sante-publique-parcours-donnees-massives-en-sante-K168SJQL.html">master of Public Health</a> from the University of Paris-Cité in 2020 and then started a PhD in September 2021.
-</ul>
 
-</p>
