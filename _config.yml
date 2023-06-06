@@ -23,7 +23,7 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: juliette.murris-ext@aphp.fr
+      value: juliette[dot]murris-ext[at]aphp.fr
       link: mailto:juliette.murris-ext@aphp.fr
   follow:
     - name: LinkedIn
