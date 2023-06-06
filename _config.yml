@@ -14,10 +14,10 @@ header:
   pages:
     - name: Home
       slug: /
+    - name: Writing
+      slug: /writing
     - name: Talks & events
       slug: /talks
-    - name: Blog
-      slug: /blog
 
 footer:
   show_powered_by: true
