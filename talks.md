@@ -8,7 +8,7 @@ slug: /talks
 I am delighted to participate in several talks and poster sessions from conferences around Europe this summer. Come and say hi should you attend Journées de Statistique in Brussel 🇧🇪, ICCB/ESMB in Lyon 🇫🇷, ISCB in Milan 🇮🇹 or SAfJR in Ulm 🇬🇪.
 
 ### Previous talks
-* Introducing recurrent events in high-dimensional frameworks [slides] *Journées de Biostatistique 2022*, Rennes, France
+* Introducing recurrent events in high-dimensional frameworks [slides]({{ site.baseurl }}/assets/assets/20221118-JDB_Juliette_Murris.pdf) *Journées de Biostatistique 2022*, Rennes, France
 
 ### Conference posters
 * Novel data visualization and unsupervised machine learning techniques to support optimal management of toxicity profiles of encorafenib plus cetuximab in patients with BRAFV600E-mutant metastatic colorectal cancer
