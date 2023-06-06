@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: Blog
+title: Teaching & supervision
 slug: /blog
 ---
 
