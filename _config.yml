@@ -19,7 +19,7 @@ header:
     - name: Talks & events
       slug: /talks
     - name: Teaching & supervision
-      slug: /blog
+      slug: /teaching
 
 footer:
   show_powered_by: true
