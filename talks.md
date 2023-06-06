@@ -9,7 +9,7 @@ I am delighted to participate in several talks and poster sessions from conferen
 Come and say hi should you attend [Journées de Statistique](https://jds2023.sciencesconf.org/) in Brussel 🇧🇪, [ISMB/ECCB](https://www.iscb.org/ismbeccb2023) in Lyon :flag_fr:, [ISCB](https://www.iscb2023.info/) in Milan 🇮🇹 or [SAfJR](https://www.uni-ulm.de/mawi/statistics/upcoming-events/safjr2023/) in Ulm 🇬🇪.
 
 ### **Previous talks**
-* Introducing recurrent events in high-dimensional frameworks [slides]({{ site.baseurl }}/assets/assets/20221118-JDB_Juliette_Murris.pdf) ..
+* Introducing recurrent events in high-dimensional frameworks [slides]({{ site.baseurl }}/assets/20221118-JDB_Juliette_Murris.pdf).. 
 *Journées de Biostatistique 2022*, Rennes, France
 
 ### **Conference posters**
