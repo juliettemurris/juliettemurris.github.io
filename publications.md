@@ -5,7 +5,7 @@ slug: /publications
 ---
 
 ### **Methodology**
-* Towards filling the gap around recurrent events in high dimensional framework: literature review and early comparison [[preprint](https://arxiv.org/abs/2203.15694)] **Murris J**, Charles-Nelson A, Lavenu A, Katsahian S. *Accepted for publication* (2023)
+* Towards filling the gap around recurrent events in high dimensional framework: literature review and early comparison [[preprint](https://arxiv.org/abs/2203.15694)] <br> **Murris J**, Charles-Nelson A, Lavenu A, Katsahian S. *Accepted for publication* (2023)
 
 * Health technology assessment of artificial intelligence-based medical devices: what healthcare stakeholders need to know on algorithm performance, interpretability and explainability [[paper](https://www.mcpdigitalhealth.org/article/S2949-7612(23)00010-X/fulltext)] <br> **Murris J**\*, Farah L\*, Borget I, Martelli N, Katsahian S. *Mayo Clinic Proceedings: Digital Health* (2023)
 
