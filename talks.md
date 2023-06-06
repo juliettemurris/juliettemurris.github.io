@@ -16,6 +16,6 @@ slug: /talks
 
 * Data Visualization in Real-World Studies to Aid Understanding and Interpretation <br> *ISPOR Europe 2022*, Vienna, Austria
 
-* Key notions in health technology assessment of AI-based medical devices: what healthcare stakeholders need to know <br> *Statistics and Biopharmacy 2022*, Paris, France
+* Key notions in health technology assessment of AI-based medical devices: what healthcare stakeholders need to know [[poster]({{ site.baseurl }}/assets/SnB2022_poster1_VF.pdf)] <br> *Statistics and Biopharmacy 2022*, Paris, France
 
-* Towards filling the gap around recurrent events in high dimensional framework: literature review and early comparison <br> *Statistics and Biopharmacy 2022*, Paris, France
+* Towards filling the gap around recurrent events in high dimensional framework: literature review and early comparison [[poster]({{ site.baseurl }}/assets/SnB2022_poster2_VF.pdf)] <br> *Statistics and Biopharmacy 2022*, Paris, France
