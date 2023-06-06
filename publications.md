@@ -16,8 +16,10 @@ slug: /publications
 
 * Risk factors for thromboembolic events in patients hospitalized for Covid-19 pneumonia in general ward and requiring oxygen supply <br> Degrave R, **Murris J**, et al. *Under review* (2023)
 
+* A systematic review and meta-analysis of post-thrombotic syndrome, recurrent thromboembolism, and bleeding after upper extremity vein thrombosis. <br> Espitia O, Raimbeau A, Planquette B, Katsahian S, Sanchez O, Bénichou A, **Murris J**. *Under review* (2023)
+
 * Regulatory T cells infiltrate the tumor-induced tertiary lymphoïd structures and impose poor clinical outcome of patients with lung cancer [[paper](https://www.nature.com/articles/s42003-022-04356-y)] <br> Devi-Marulkar P, […] **Murris J**, et al. *Communications Biology* (2022)
 
-* A systematic review and meta-analysis of post-thrombotic syndrome, recurrent thromboembolism, and bleeding after upper extremity vein thrombosis. <br> Espitia O, Raimbeau A, Planquette B, Katsahian S, Sanchez O, Bénichou A, **Murris J**. *Under review* (2022)
+* Adenoma detection rate is enough to assess endoscopist performance: a population-based observational study of FIT positive colonoscopies [[paper](https://pubmed.ncbi.nlm.nih.gov/36118642/)] <br> Denis B, Gendre I, Tuzin N, **Murris J**, Guignard A, Perrin P, Rahmi G. *Endoscopy International Open* (2022)
 
 * Quality of life in patients with BRAF-mutant melanoma receiving the combination encorafenib plus binimetinib: Results from a multicentre, open-label, randomised, phase III study (COLUMBUS) [[paper](https://pubmed.ncbi.nlm.nih.gov/34091420/)] <br> Gogas H, […] **Murris J**, et al. *European Journal of Cancer* (2021)
