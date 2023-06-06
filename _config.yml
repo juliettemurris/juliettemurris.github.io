@@ -14,8 +14,8 @@ header:
   pages:
     - name: Home
       slug: /
-    - name: Work
-      slug: /work
+    - name: Talks & Events
+      slug: /talks
     - name: Blog
       slug: /blog
 
