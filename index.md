@@ -21,4 +21,4 @@ My PhD research benefits from a Cifre grant involving <a href="https://www.pierr
 </ul>
 
 <strong>Latest news:</strong>
-> Exciting conferences this summer, see <a href="https://juliettemurris.github.io/talks">here</a>.
+> Exciting conferences coming up this summer, see <a href="https://juliettemurris.github.io/talks">here</a>.
