@@ -5,6 +5,7 @@ slug: /talks
 ---
 
 ### **Forthcoming**
+
 > ☀️ I am delighted to participate in several talks and poster sessions from conferences around Europe this summer. <br> Come and say hi should you attend [Journées de Statistique](https://jds2023.sciencesconf.org/) in Brussel, [ISMB/ECCB](https://www.iscb.org/ismbeccb2023) in Lyon, [ISCB](https://www.iscb2023.info/) in Milan, or [SAfJR](https://www.uni-ulm.de/mawi/statistics/upcoming-events/safjr2023/) in Ulm.
 
 ### **Previous talks**
