@@ -16,7 +16,7 @@ I am primarily interested in survival analyses in medical research, with a focus
 <p>
 
 My PhD research benefits from a Cifre grant involving <a href="https://www.pierre-fabre.com/fr">Pierre Fabre laboratories</a>. This way, I am also a part-time engineer/biostatistician in the R&D department.
-<br>
+</br>
 
 Short CV:
 <p>
