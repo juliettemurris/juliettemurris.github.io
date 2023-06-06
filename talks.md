@@ -14,7 +14,7 @@ slug: /talks
 ### **Conference posters**
 * Novel data visualization and unsupervised machine learning techniques to support optimal management of toxicity profiles of encorafenib plus cetuximab in patients with BRAFV600E-mutant metastatic colorectal cancer <br> *ESMO 2023*, Barcelona, Spain
 
-* Data Visualization in Real-World Studies to Aid Understanding and Interpretation <br> *ISPOR Europe 2022*, Vienna, Austria
+* Data Visualization in Real-World Studies to Aid Understanding and Interpretation [[poster]({{ site.baseurl }}/assets/2022-10-18_POSTER-Fabre-dataviz-2022-ISPOR_vf.pdf)] [[linkedin post](https://www.linkedin.com/feed/update/urn:li:activity:6996396034432061440/)] <br> *ISPOR Europe 2022*, Vienna, Austria
 
 * Key notions in health technology assessment of AI-based medical devices: what healthcare stakeholders need to know [[poster]({{ site.baseurl }}/assets/SnB2022_poster1_VF.pdf)] <br> *Statistics and Biopharmacy 2022*, Paris, France
 
