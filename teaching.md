@@ -6,6 +6,8 @@ slug: /teaching
 
 ### **Teaching**
 
+_________________
+
 ### **Project tutoring**
 #### 2023
 * Text mining and care pathways – what are the causes of mortality in heart failure patients? *M1 ENSAE Paris*  <br> [[github](https://github.com/Kirscher/TextMining_Parcours_de_soin)]
@@ -18,6 +20,8 @@ slug: /teaching
 * Simulating recurrent events in survival framework *M1 ENSAI*
 
 * Learning algorithms to measure unbiased effect of statins on overall survival amongst Covid+ patients *M1 ENSAI*
+
+_________________
 
 ### **Internship supervision**
 #### 2022
