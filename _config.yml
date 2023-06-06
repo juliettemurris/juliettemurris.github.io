@@ -15,7 +15,7 @@ header:
     - name: Home
       slug: /
     - name: Publications
-      slug: /writing
+      slug: /publications
     - name: Talks & events
       slug: /talks
     - name: Teaching & supervision
