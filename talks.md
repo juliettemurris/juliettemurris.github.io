@@ -19,3 +19,11 @@ slug: /talks
 * Key notions in health technology assessment of AI-based medical devices: what healthcare stakeholders need to know [[poster]({{ site.baseurl }}/assets/SnB2022_poster1_VF.pdf)] <br> *Statistics and Biopharmacy 2022*, Paris, France
 
 * Towards filling the gap around recurrent events in high dimensional framework: literature review and early comparison [[poster]({{ site.baseurl }}/assets/SnB2022_poster2_VF.pdf)] <br> *Statistics and Biopharmacy 2022*, Paris, France
+
+* Prevalence of visible skin diseases, an international study of 13,138 people <br> *Journées Dermatologiques de Paris 2021*, Paris, France
+
+* Perioperative Complications of Scoliosis Surgery : Management Strategies and Associated Costs in France <br> *ISPOR Europe 2020*, virtual
+
+* Comparison of three large real-world databases from different countries and implications for their use for retrospective studies <br> *ISPOR Europe 2019*, Copenhagen, Denmark
+
+* Patient selection process in real-world data from electronic health records - suggested standardised process for selecting patients <br> *ISPOR Europe 2019*, Copenhagen, Denmark
