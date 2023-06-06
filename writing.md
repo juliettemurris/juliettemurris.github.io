@@ -1,6 +1,7 @@
 ---
 layout: work
 title: Main Scientific Publication
+slug: /writing
 ---
 
 ### **Methodology**
