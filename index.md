@@ -11,7 +11,7 @@ I am a PhD candidate in Biostatistics within the <a href="https://team.inria.fr/
 
 I am primarily interested in survival analyses in medical research, with a focus on recurrent events. I also have a strong interest in any innovative technologies, specifically when related to machine learning/artificial intelligence stakes. 
 
-My PhD research benefits from a Cifre grant involving <a href="https://www.pierre-fabre.com/fr">Pierre Fabre laboratories</a>. This way, I am also a part-time engineer/biostatistician in the R&D department.
+My PhD research benefits from a Cifre grant involving <a href="https://www.pierre-fabre.com/fr">Pierre Fabre laboratories</a>. This way, I am also a part-time engineer/biostatistician in their R&D department.
 
 <strong>Short CV:</strong>
 <ul>
