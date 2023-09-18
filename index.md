@@ -21,4 +21,4 @@ My PhD research benefits from a Cifre grant involving <a href="https://www.pierr
 </ul>
 
 <strong>Latest news:</strong>
-> Exciting conferences coming up this summer, see <a href="https://juliettemurris.github.io/talks">here</a>.
+> 🎓🌐 I've just earned a certificate in #OpenScience, see <a href="https://u-paris.fr/bibliotheques/certification-science-ouverte-seconde-promotion-doctorants/">here</a> for further details.

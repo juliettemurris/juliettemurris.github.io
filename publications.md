@@ -14,7 +14,7 @@ slug: /publications
 * A comparison of methods for high-dimensional survival data on small samples: hyperparameter optimization and validation [[short paper](https://jds22.sciencesconf.org/data/pages/LivretJdS22_version_longue.pdf)] <br> Lavenu A, **Murris J**, Mareau A, Rouzé T, Fromont M, Gares V, Katsahian S. *53ème Journées de Statistique de la SFdS* (2022)
 
 ### **Clinical studies**
-* A systematic review and meta-analysis of post-thrombotic syndrome, recurrent thromboembolism, and bleeding after upper extremity vein thrombosis. <br> Espitia O, Raimbeau A, Planquette B, Katsahian S, Sanchez O, Bénichou A, **Murris J**. *Journal of Vascular Surgery: Venous and Lymphatic Disorders* (2023)
+* A systematic review and meta-analysis of post-thrombotic syndrome, recurrent thromboembolism, and bleeding after upper extremity vein thrombosis [[paper](https://www.jvsvenous.org/article/S2213-333X(23)00382-7/fulltext#%20)] <br> Espitia O, Raimbeau A, Planquette B, Katsahian S, Sanchez O, Bénichou A, **Murris J**. *Journal of Vascular Surgery: Venous and Lymphatic Disorders* (2023)
 
 * Risk factors for thromboembolic events in patients hospitalized for Covid-19 pneumonia in general ward and requiring oxygen supply <br> Degrave R, **Murris J**, et al. *Accepted for publication* (2023)
 
