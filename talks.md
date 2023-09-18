@@ -6,7 +6,7 @@ slug: /talks
 
 ### **Forthcoming**
 
-> :🇩🇰: I'm thrilled to announce that I'll be attending ISPOR 2023 in Copenhagen in November, where I'll be diving into data maturity for observational studies. Stay tuned for updates!
+> :denmark: I'm thrilled to announce that I'll be attending ISPOR 2023 in Copenhagen in November, where I'll be diving into data maturity for observational studies. Stay tuned for updates!
 
 ### **Previous talks**
 * Random survival forests for analysing survival data with recurrent events [[slides]({{ site.baseurl }}/assets/SAfJR_JMurris.pdf)] <br> *Survival Analysis for Junior Researchers 2023*, Ulm, Germany
