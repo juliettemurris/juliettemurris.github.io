@@ -18,6 +18,8 @@ slug: /talks
 * Introducing recurrent events in high-dimensional frameworks [[slides]({{ site.baseurl }}/assets/20221118-JDB_Juliette_Murris.pdf)] <br> *Journées de Biostatistique 2022*, Rennes, France
 
 ### **Conference posters**
+* Improving survival risk prediction with random survival forests for recurrent events in biological systems [[poster]({{ site.baseurl }}/assets/ECCB_poster_VF.pdf)] <br> *Intelligent Systems for Molecular Biology / European Conference on Computational Biology 2023*, Lyon, France
+
 * Novel data visualization and unsupervised machine learning techniques to support optimal management of toxicity profiles of encorafenib plus cetuximab in patients with BRAFV600E-mutant metastatic colorectal cancer <br> *ESMO 2023*, Barcelona, Spain
 
 * Data Visualization in Real-World Studies to Aid Understanding and Interpretation [[poster]({{ site.baseurl }}/assets/2022-10-18_POSTER-Fabre-dataviz-2022-ISPOR_vf.pdf)] [[linkedin post](https://www.linkedin.com/feed/update/urn:li:activity:6996396034432061440/)] <br> *ISPOR Europe 2022*, Vienna, Austria
