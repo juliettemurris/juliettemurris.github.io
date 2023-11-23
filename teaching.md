@@ -10,8 +10,12 @@ slug: /teaching
 _________________
 
 ### **Project tutoring**
+
+#### 2024
+* Interpretability for machine learning in survival framework *M1 ENSAE Paris*
+
 #### 2023
-* Text mining and care pathways – what are the causes of mortality in heart failure patients? *M1 ENSAE Paris*  <br> [[github](https://github.com/Kirscher/TextMining_Parcours_de_soin)]
+* Text mining and care pathways – what are the causes of mortality in heart failure patients? *M1 ENSAE Paris* <br> [[github](https://github.com/Kirscher/TextMining_Parcours_de_soin)] <br> This work led to a presentation at *Journées de Biostatistique 2023* in Toulouse, France
 
 * Modelling mortality amongst ICU patients *M1 ENSAI*
 
@@ -25,6 +29,14 @@ _________________
 _________________
 
 ### **Internship supervision**
+
+#### 2023
+* Interim analyses and conditional power in adaptive clinical trial design, CIC1418 APHP HEGP - Maud M, Research internship, *M1 ENSAI* <br> This work led to a presentation at *Journées de Biostatistique 2023* in Toulouse, France
+
+* Impact of multicollinearity of covariates in clinical trials randomization, CIC1418 APHP HEGP - Hugo C, Research internship, *M1 ENSAI* <br> This work led to a presentation at *Journées de Biostatistique 2023* in Toulouse, France
+
+* Resuscitated cardiac arrest in ICU using MIMIC-IV data, CIC1418 APHP HEGP - Hélène S, Research internship, *M1 ENSAI* 
+
 #### 2022
 * Stakes and challenges of adaptive design in clinical trials, CIC1418 APHP HEGP - Emilie J, Research internship, *M1 ENSAI* <br> This work led to a presentation at *Journées de Biostatistique 2022* in Rennes, France
 
