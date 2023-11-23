@@ -4,11 +4,7 @@ title: Talks & events
 slug: /talks
 ---
 
-### **Forthcoming**
-
-> :denmark: I'm thrilled to announce that I'll be attending ISPOR 2023 in Copenhagen in November, where I'll be diving into data maturity for observational studies. Stay tuned for updates!
-
-### **Previous talks**
+### **Talks**
 * Random survival forests for analysing survival data with recurrent events [[slides]({{ site.baseurl }}/assets/SAfJR_JMurris.pdf)] <br> *Survival Analysis for Junior Researchers 2023*, Ulm, Germany
 
 * Random survival forests for analysing survival data with recurrent events [[slides]({{ site.baseurl }}/assets/ISCB44_JMurris.pdf)] <br> *Conference of the International Society for Clinical Biostatistics 2023*, Milan, Italy
@@ -17,7 +13,9 @@ slug: /talks
 
 * Introducing recurrent events in high-dimensional frameworks [[slides]({{ site.baseurl }}/assets/20221118-JDB_Juliette_Murris.pdf)] <br> *Journées de Biostatistique 2022*, Rennes, France
 
-### **Conference posters**
+### **Posters**
+* The curse of data maturity in observational studies: practical advice from protocol development to interpretation of results [[poster]({{ site.baseurl }}/assets/ISPOREurope23_Murris_MSR162_POSTER.pdf)] <br> *ISPOR Europe 2023*, Copenhagen, Denmark
+
 * Improving survival risk prediction with random survival forests for recurrent events in biological systems [[poster]({{ site.baseurl }}/assets/ECCB_poster_VF.pdf)] <br> *Intelligent Systems for Molecular Biology / European Conference on Computational Biology 2023*, Lyon, France
 
 * Novel data visualization and unsupervised machine learning techniques to support optimal management of toxicity profiles of encorafenib plus cetuximab in patients with BRAFV600E-mutant metastatic colorectal cancer <br> *ESMO 2023*, Barcelona, Spain
