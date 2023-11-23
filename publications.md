@@ -7,7 +7,7 @@ slug: /publications
 ### **Methodology**
 * Health technology assessment of artificial intelligence-based medical devices: what healthcare stakeholders need to know on algorithm performance, interpretability and explainability [[paper](https://www.mcpdigitalhealth.org/article/S2949-7612(23)00010-X/fulltext)] <br> Farah L\*, **Murris J**\*, Borget I, Guilloux A, Martelli N, Katsahian S. *Mayo Clinic Proceedings: Digital Health* (2023)
 
-* Towards filling the gap around recurrent events in high dimensional framework: literature review and early comparison [[paper](https://www.tandfonline.com/doi/full/10.1080/24709360.2023.2283650)] <br> **Murris J**, Charles-Nelson A, Lavenu A, Katsahian S. *Biostatistics and Epidemiology* (2023)
+* Towards filling the gap around recurrent events in high dimensional framework: literature review and early comparison [[paper](https://www.tandfonline.com/doi/full/10.1080/24709360.2023.2283650)] <br> **Murris J**, Charles-Nelson A, Tadmouri A, Lavenu A, Katsahian S. *Biostatistics and Epidemiology* (2023)
 
 * Decision trees for analyzing survival data with recurrent events [[short paper](https://drive.google.com/file/d/1mW-bA4_IwfshLMIMNN-vUjUh1lHPTd4-/view)] <br> **Murris J**, Lavenu A, Katsahian S. *54ème Journées de Statistique de la SFdS* (2023)
 
