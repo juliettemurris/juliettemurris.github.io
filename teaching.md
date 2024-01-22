@@ -9,6 +9,7 @@ slug: /teaching
 * Survival analysis - From introductive notions to machine learning
     - Presentation [[html]({{ site.baseurl }}/assets/0_Presentation.html)]
     - Exam [[html]({{ site.baseurl }}/assets/Evaluation.html)]
+
 _________________
 
 ### **Project tutoring**
