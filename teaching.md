@@ -9,6 +9,8 @@ slug: /teaching
 * Survival analysis - From introductive notions to machine learning
     - Presentation [[html]({{ site.baseurl }}/assets/0_Presentation.html)]
     - Exam [[html]({{ site.baseurl }}/assets/Evaluation.html)]
+    - Slides [[Day 1]({{ site.baseurl }}/assets/Evaluation.html)] [[Day 2]({{ site.baseurl }}/assets/Evaluation.html)] [[Day 3]({{ site.baseurl }}/assets/Evaluation.html)]
+    - TP [[TP1]({{ site.baseurl }}/assets/0Evaluation.html)] [[TP2]({{ site.baseurl }}/assets/0Evaluation.html)] [[TP3]({{ site.baseurl }}/assets/0Evaluation.html)] [[TP4]({{ site.baseurl }}/assets/0Evaluation.html)] [[TP5]({{ site.baseurl }}/assets/0Evaluation.html)]
 
 _________________
 
