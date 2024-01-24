@@ -1,0 +1,232 @@
+---
+title: "TP2 : Evaluation d'un algorithme de classification"
+author: "Juliette Murris"
+date: "Janvier 2024"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+Dans ce TP nous travaillerons sur la base de données _lung_ disponible dans R. Vous avez déjà explorer les données dans le TP1 d'un point de vue de l'analyse de la survie. Ici l'objectif est d'évaluer un modèle de classification qui classe les patient selon leur statut vital. 
+
+
+## Prérequis : 
+
+Téléchargement des packages nécessaires.
+
+```{r, echo=TRUE,message=FALSE,warning=FALSE}
+  library(survival)
+  library(dplyr)
+  library(pROC)
+  library(ModelMetrics)
+```
+
+Chargement des données : 
+
+```{r}
+  data(lung)
+```
+
+
+
+## I. Construction d'une base d'entrainement et d'une base de validation :
+
+<span style='color: #a13203; font-weight: 600;'>💬 Question 1 </span>  La création de ces deux bases avec un ratio 80/20
+
+```{r,include=TRUE}
+# Réponse :
+# 
+# 
+# 
+#
+#
+#
+#
+#
+#
+```
+
+
+
+
+## II. Construction :
+
+<span style='color: #a13203; font-weight: 600;'>💬 Question 1 </span>  Créer une régression logistique cherchant à expliquer le décès par les variables suivantes : _age_, _sex_, _ph.ecog_, _ph.karno_, _pat.karno_, _meal.cal_, _wt.loss_ 
+
+```{r,include=TRUE}
+# Réponse :
+# 
+# 
+# 
+#
+#
+#
+#
+#
+#
+```
+
+
+
+
+<span style='color: #a13203; font-weight: 600;'>💬 Question 2 </span>  Ajouter dans la base _Training_set2_ une variable correspondant à la probabilité de décès 
+
+```{r,include=TRUE}
+# Réponse :
+# 
+# 
+# 
+#
+#
+#
+#
+#
+#
+```
+
+<span style='color: #a13203; font-weight: 600;'>💬 Question 3 </span>  Utiliser la fonction _roc_ du package proc pour afficher la courbe ROC et donner l'AUC 
+
+```{r,include=TRUE}
+# Réponse :
+# 
+# 
+# 
+#
+#
+#
+#
+#
+#
+```
+
+
+
+<span style='color: #a13203; font-weight: 600;'>💬 Question 4</span>  Identifier parmi les éléments fournis par la fonction _roc_ lesquels peuvent être utilisés pour identifier le cut_off optimal 
+
+```{r,include=TRUE}
+# Réponse :
+# 
+# 
+# 
+#
+#
+#
+#
+#
+#
+```
+
+
+
+
+<span style='color: #a13203; font-weight: 600;'>💬 Question 5 </span>  Déterminer le cutoff optimal  
+
+```{r,include=TRUE}
+# Réponse :
+# 
+# 
+# 
+#
+#
+#
+#
+#
+#
+```
+
+
+
+<span style='color: #a13203; font-weight: 600;'>💬 Question 6 </span>  Créer une variable _status.est_ qui est la probabilité de décès estimée par le modèle en fonction du cutoff précédemment déterminé 
+
+```{r,include=TRUE}
+# Réponse :
+# 
+# 
+# 
+#
+#
+#
+#
+#
+#
+```
+
+
+
+
+
+
+<span style='color: #a13203; font-weight: 600;'>💬 Question 7 </span>  Créer la matrice de confusion de ce modèle 
+
+```{r,include=TRUE}
+# Réponse :
+# 
+# 
+# 
+#
+#
+#
+#
+#
+#
+```
+
+
+<span style='color: #a13203; font-weight: 600;'>💬 Question 8 </span>  Calculer la sensibilité, la spécificité, l'accuracy et la précision " à la main"
+
+```{r,include=TRUE}
+# Réponse :
+# 
+# 
+# 
+#
+#
+#
+#
+#
+#
+```
+
+
+
+
+
+## II. Mesure de l'erreur sur la base de test:
+
+
+L'objectif de cette partie est d'évaluer les performances du modèle sur la base de test.
+
+<span style='color: #a13203; font-weight: 600;'>💬 Question 1 </span>  Calculer les prédictions 
+
+```{r,include=TRUE}
+# Réponse :
+# 
+# 
+# 
+#
+#
+#
+#
+#
+#
+```
+
+<span style='color: #a13203; font-weight: 600;'>💬 Question 2 </span>  Calculer la sensibilité et spécificité à partir du package _ModelMetrics_ 
+
+```{r,include=TRUE}
+# Réponse :
+# 
+# 
+# 
+#
+#
+#
+#
+#
+#
+```
+
+

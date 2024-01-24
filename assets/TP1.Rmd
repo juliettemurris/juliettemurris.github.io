@@ -1,0 +1,208 @@
+---
+title: 'TP1 : Modèle de Cox et prédiction'
+author: "Juliette Murris"
+date: "Janvier 2024"
+output:
+  html_document: default
+  word_document: default
+  pdf_document: default
+---
+
+
+Dans ce TP nous travaillerons sur la base de données _lung_ disponible dans R. 
+
+## Prérequis : 
+
+Téléchargement des packages nécessaires.
+
+```{r, echo=TRUE,message=FALSE,warning=FALSE}
+  library(survival)
+  library(dplyr)
+```
+
+Chargement des données : 
+
+```{r}
+data(lung)
+head(lung)
+?lung
+```
+
+
+
+
+## I. Exploration des données :
+
+ <span style='color: #a13203; font-weight: 600;'>💬 Question 1 </span> Donnez la liste des variables constituant la base ainsi que leur signification
+
+```{r,include=TRUE}
+# Réponse :
+?lung
+# 
+# 
+#
+#
+#
+#
+#
+#
+```
+
+
+<span style='color: #a13203; font-weight: 600;'>💬 Question 2 </span> Déterminez quelles sont les deux variables nécessaires pour la construction d'un modèle de survie. Que remarquez vous ?
+
+
+```{r,include=TRUE}
+# Réponse :
+# 
+# 
+# 
+#
+#
+#
+#
+#
+#
+```
+
+
+ <span style='color: #a13203; font-weight: 600;'>💬 Question 3 </span> Doit-on modifier les variables précédentes pour appliquer un modèle de cox ? Si oui laquelle ?
+
+```{r,include=TRUE}
+# Réponse :
+# 
+# 
+# 
+#
+#
+#
+#
+#
+#
+```
+
+
+## II. Création d'un modèle de Cox :
+
+<span style='color: #a13203; font-weight: 600;'>💬 Question 1 </span> Evaluez l'impact de chacune des covariables (à l'exception de l'institution) sur le décès. Interprétez les résultats obtenus. Stockez les coefficients dans un vecteur.
+
+```{r,include=TRUE}
+# Réponse :
+# 
+# 
+# 
+#
+#
+#
+#
+#
+#
+```
+
+
+
+
+## III. Utilisation du modèle de Cox pour prédire la survie :
+
+
+<span style='color: #a13203; font-weight: 600;'>💬 Question 1 </span> Créez 3 vecteurs comprenant les différentes prédictions obtenues par la fonction predict.coxph (terms, lp, risk)
+
+
+
+```{r,include=TRUE}
+# Réponse :
+# 
+# 
+# 
+#
+#
+#
+#
+#
+#
+```
+
+
+
+<span style='color: #a13203; font-weight: 600;'>💬 Question 2 </span> Vérifiez que la prediction "term" renvoie pour la covariable $j$ du patient $i$ le résultat suivant :
+
+
+$$ pred.term^i_j = \beta_j Z^i_j - \overline{\beta_j Z_j}$$
+
+```{r,include=TRUE}
+# Réponse :
+# 
+# 
+# 
+#
+#
+#
+#
+#
+#
+```
+
+
+
+
+<span style='color: #a13203; font-weight: 600;'>💬 Question 3 </span> Vérifiez que la prediction "lp" renvoie pour le patient $i$ le résultat suivant :
+
+
+$$ pred.lp^i_j = \sum^p_{j=1} pred.term^i_j = \sum^p_{j=1} (\beta_j Z^i_j - \overline{\beta_j Z_j})$$
+
+```{r,include=TRUE}
+# Réponse :
+# 
+# 
+# 
+#
+#
+#
+#
+#
+#
+```
+
+
+
+
+
+<span style='color: #a13203; font-weight: 600;'>💬 Question 4 </span> Vérifiez que la prediction "risk" renvoie pour le patient $i$ le résultat suivant :
+
+
+
+$$ pred.risk^i_j = e^{pred.lp^i_j} = e^{\sum^p_{j=1} pred.term^i_j} = e^{\sum^p_{j=1} (\beta_j Z^i_j - \overline{\beta_j Z_j})}$$
+
+```{r,include=TRUE}
+# Réponse :
+# 
+# 
+# 
+#
+#
+#
+#
+#
+#
+```
+
+
+
+
+
+<span style='color: #a13203; font-weight: 600;'>💬 Question 5 </span> Comment interpréter les predictions de risque ?
+
+
+```{r,include=TRUE}
+# Réponse :
+# 
+# 
+# 
+#
+#
+#
+#
+#
+#
+```
+
