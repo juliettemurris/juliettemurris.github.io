@@ -14,11 +14,11 @@ slug: /publications
 * A comparison of methods for high-dimensional survival data on small samples: hyperparameter optimization and validation [[short paper](https://jds22.sciencesconf.org/data/pages/LivretJdS22_version_longue.pdf)] <br> Lavenu A, **Murris J**, Mareau A, Rouzé T, Fromont M, Gares V, Katsahian S. *53ème Journées de Statistique de la SFdS* (2022)
 
 ### **Clinical studies**
-* A systematic review and meta-analysis of post-thrombotic syndrome, recurrent thromboembolism, and bleeding after upper extremity vein thrombosis [[paper](https://www.jvsvenous.org/article/S2213-333X(23)00382-7/fulltext#%20)] <br> Espitia O, Raimbeau A, Planquette B, Katsahian S, Sanchez O, Bénichou A, **Murris J**. *Journal of Vascular Surgery: Venous and Lymphatic Disorders* (2023)
+* Protocol for Fever Control Using External Cooling in Mechanically Ventilated Patients with Septic Shock: SEPSISCOOL II Randomised Controlled Trial [[paper](https://bmjopen.bmj.com/content/14/1/e069430.long)] <br> Arnoux A, **Murris J**, et al. *BMJ Open* (2024)
 
 * Risk factors for thromboembolic events in patients hospitalized for Covid-19 pneumonia in general ward and requiring oxygen supply [[paper](https://academic.oup.com/pmj/advance-article-abstract/doi/10.1093/postmj/qgad104/7425479?redirectedFrom=fulltext)] <br> Degrave R, **Murris J**, et al. *Postgraduate Medical Journal* (2023)
 
-* Protocol for Fever Control Using External Cooling in Mechanically Ventilated Patients with Septic Shock: SEPSISCOOL II Randomised Controlled Trial <br> Arnoux A, **Murris J**, et al. *Accepted fo publication at BMJ Open* (2023)
+* A systematic review and meta-analysis of post-thrombotic syndrome, recurrent thromboembolism, and bleeding after upper extremity vein thrombosis [[paper](https://www.jvsvenous.org/article/S2213-333X(23)00382-7/fulltext#%20)] <br> Espitia O, Raimbeau A, Planquette B, Katsahian S, Sanchez O, Bénichou A, **Murris J**. *Journal of Vascular Surgery: Venous and Lymphatic Disorders* (2023)
 
 * Regulatory T cells infiltrate the tumor-induced tertiary lymphoïd structures and impose poor clinical outcome of patients with lung cancer [[paper](https://www.nature.com/articles/s42003-022-04356-y)] <br> Devi-Marulkar P, […] **Murris J**, et al. *Communications Biology* (2022)
 
