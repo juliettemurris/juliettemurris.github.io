@@ -7,7 +7,7 @@ profile_picture:
 
 Hi, Welcome to my webpage!
 
-I am Juliette Murris, PhD candidate in Biostatistics within the <a href="https://team.inria.fr/heka/fr/">HeKA team</a> (Inserm-Inria initiative) hosted at <a href="https://parisantecampus.fr/">PariSanté Campus</a>. My research is under the supervision of <a href="https://fr.linkedin.com/in/sandrine-katsahian-98555679">Pr. Sandrine Katsahian</a> from the <a href="https://recap-inserm.fr/cic-ec-1418-fr.html">CIC14-18</a> and the Pompidou hospital (HEGP, AP-HP) and <a href="https://fr.linkedin.com/in/audrey-lavenu-7b160243">Audrey Lavenu</a> from <a href="https://irmar.univ-rennes.fr/">IRMAR</a>.
+I am Juliette Murris, PhD candidate in Biostatistics within the <a href="https://team.inria.fr/heka/">HeKA team</a> (Inserm-Inria initiative) hosted at <a href="https://parisantecampus.fr/">PariSanté Campus</a>. My research is under the supervision of <a href="https://fr.linkedin.com/in/sandrine-katsahian-98555679">Pr. Sandrine Katsahian</a> from the <a href="https://recap-inserm.fr/cic-ec-1418-fr.html">CIC14-18</a> and the Pompidou hospital (HEGP, AP-HP) and <a href="https://fr.linkedin.com/in/audrey-lavenu-7b160243">Audrey Lavenu</a> from <a href="https://irmar.univ-rennes.fr/">IRMAR</a>.
 
 I am primarily interested in survival analyses in medical research, with a focus on recurrent events. I also have a strong interest in any innovative technologies, specifically when related to machine/statistical learning stakes. 
 
