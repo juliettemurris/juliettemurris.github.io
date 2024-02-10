@@ -20,7 +20,7 @@ _________________
 * Interpretability for machine learning in survival framework *M1 ENSAE Paris* [[github](https://github.com/malquier/Interpretability_of_Survival_Analysis)]
 
 #### 2023
-* Text mining and care pathways – what are the causes of mortality in heart failure patients? *M1 ENSAE Paris* [[github](https://github.com/Kirscher/TextMining_Parcours_de_soin)] <br> This work led to a presentation at *Journées de Biostatistique 2023* in Toulouse, France 
+* Text mining and care pathways in heart failure patients *M1 ENSAE Paris* [[github](https://github.com/Kirscher/TextMining_Parcours_de_soin)] <br> This work led to a presentation at *Journées de Biostatistique 2023* in Toulouse, France 
 
 * Modelling mortality amongst ICU patients *M1 ENSAI*
 
