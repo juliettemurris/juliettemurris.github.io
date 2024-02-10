@@ -21,6 +21,8 @@ My PhD research benefits from a Cifre grant involving <a href="https://www.pierr
 </ul>
 
 <strong>Latest news:</strong>
+> 🔍 Exploring opportunities for junior researchers! As the organizer of the HeKA junior seminar, I welcome fellow researchers to present their work. Write to me should you be interested in sharing your insights!
+
 > 🎉 Our protocol for SEPSISCOOL II trial is out in BMJ Open! We use an adaptive trial design to compare strategies of treatment of fever in ICU, for more info click <a href="https://bmjopen.bmj.com/content/14/1/e069430.long">here</a> 
 
 > 🎓🌐 I've just earned a certificate in #OpenScience with the Université Paris Cité, see <a href="https://u-paris.fr/bibliotheques/certification-science-ouverte-seconde-promotion-doctorants/">here</a> for further details.
