@@ -5,6 +5,9 @@ slug: /publications
 ---
 
 ### **Methodology**
+* A novel methodological framework for the analysis of health trajectories and survival outcomes in heart failure patients
+ [[conference paper](https://arxiv.org/abs/2403.03138)] <br> **Murris J**, Amadei T, Kirscher T, Klein A, Tropeano AI, Katsahian S. *Learning from Time Series for Health Workshop ICLR 2024* (2024)
+
 * Health technology assessment of artificial intelligence-based medical devices: what healthcare stakeholders need to know on algorithm performance, interpretability and explainability [[paper](https://www.mcpdigitalhealth.org/article/S2949-7612(23)00010-X/fulltext)] <br> Farah L\*, **Murris J**\*, Borget I, Guilloux A, Martelli N, Katsahian S. *Mayo Clinic Proceedings: Digital Health* (2023)
 
 * Towards filling the gap around recurrent events in high dimensional framework: literature review and early comparison [[paper](https://www.tandfonline.com/doi/full/10.1080/24709360.2023.2283650)] <br> **Murris J**, Charles-Nelson A, Tadmouri A, Lavenu A, Katsahian S. *Biostatistics and Epidemiology* (2023)
