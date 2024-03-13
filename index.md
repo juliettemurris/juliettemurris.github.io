@@ -21,7 +21,7 @@ My PhD research benefits from a Cifre grant involving <a href="https://www.pierr
 </ul>
 
 <strong>Latest news:</strong>
-> 🎊 I am very happy to share I am attending ICLR 2024 in Vienna, Austria! 
+> 🎊 I am very happy to share I am attending <a href="https://iclr.cc/Conferences/2024">ICLR 2024</a> in Vienna, Austria! 
 
 > 🔍 Exploring opportunities for junior researchers! As the organizer of the HeKA junior seminar, I welcome fellow researchers to come and present their work. Email me should you be interested in sharing your insights!
 
