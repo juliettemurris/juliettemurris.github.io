@@ -13,6 +13,8 @@ I am primarily interested in survival analyses in medical research, with a focus
 
 My PhD research benefits from a Cifre grant involving <a href="https://www.pierre-fabre.com/fr">Pierre Fabre laboratories</a>. This way, I am also a part-time engineer/biostatistician in their R&D department.
 
+And because research is all about sharing, I take great pleasure in organizing the HeKA junior seminar held at PariSanté Campus. This junior seminar is a monthly meeting tailored for aspiring researchers within the fields of stats/ML/IA in healthcare. If you identify as a junior researcher and share our enthusiasm for advancing these disciplines, I invite you to join us! Please feel free to reach out via email if interested.
+
 <strong>Short CV:</strong>
 <ul>
   <li> I graduated from the <a href="https://www.ensai.fr/">National School of Statistics</a> in France with a major in Data Science for Healthcare in 2018;</li>
@@ -22,8 +24,6 @@ My PhD research benefits from a Cifre grant involving <a href="https://www.pierr
 
 <strong>Latest news:</strong>
 > 🎊 I am very happy to share I am attending <a href="https://iclr.cc/Conferences/2024">ICLR 2024</a> in Vienna, Austria! 
-
-> 🔍 Exploring opportunities for junior researchers! As the organizer of the HeKA junior seminar, I welcome fellow researchers to come and present their work. Email me should you be interested in sharing your insights!
 
 > 🎉 Our protocol for SEPSISCOOL II trial is out in BMJ Open! We use an adaptive trial design to compare strategies of treatment of fever in ICU, for more info click <a href="https://bmjopen.bmj.com/content/14/1/e069430.long">here</a> 
 
