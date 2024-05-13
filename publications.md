@@ -17,6 +17,8 @@ slug: /publications
 * A comparison of methods for high-dimensional survival data on small samples: hyperparameter optimization and validation [[short paper](https://jds22.sciencesconf.org/data/pages/LivretJdS22_version_longue.pdf)] <br> Lavenu A, **Murris J**, Mareau A, Rouzé T, Fromont M, Gares V, Katsahian S. *53ème Journées de Statistique de la SFdS* (2022)
 
 ### **Clinical studies**
+* Increased levels of GM-CSF and CXCL10 and low CD8+ memory stem T Cell count are markers of immunosenescence and severe COVID-19 in older people [[paper](https://immunityageing.biomedcentral.com/articles/10.1186/s12979-024-00430-7)] <br> Poisson J, […] **Murris J**, et al. *Immunity & Ageing* (2024)
+  
 * Protocol for Fever Control Using External Cooling in Mechanically Ventilated Patients with Septic Shock: SEPSISCOOL II Randomised Controlled Trial [[paper](https://bmjopen.bmj.com/content/14/1/e069430.long)] <br> Arnoux A, **Murris J**, et al. *BMJ Open* (2024)
 
 * Risk factors for thromboembolic events in patients hospitalized for Covid-19 pneumonia in general ward and requiring oxygen supply [[paper](https://academic.oup.com/pmj/advance-article-abstract/doi/10.1093/postmj/qgad104/7425479?redirectedFrom=fulltext)] <br> Degrave R, **Murris J**, et al. *Postgraduate Medical Journal* (2023)
