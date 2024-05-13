@@ -14,6 +14,8 @@ slug: /talks
 * Introducing recurrent events in high-dimensional frameworks [[slides]({{ site.baseurl }}/assets/20221118-JDB_Juliette_Murris.pdf)] <br> *Journées de Biostatistique 2022*, Rennes, France
 
 ### **Posters**
+* A Novel Methodological Framework for the Analysis of Health Trajectories and Survival Outcomes in Heart Failure Patients [[poster]({{ site.baseurl }}/assets/ICLR_poster.pdf)] <br> *ICLR 2024 TS4H Workshop*, Vienna, Austria
+
 * The curse of data maturity in observational studies: practical advice from protocol development to interpretation of results [[poster]({{ site.baseurl }}/assets/ISPOREurope23_Murris_MSR162_POSTER.pdf)] <br> *ISPOR Europe 2023*, Copenhagen, Denmark
 
 * Improving survival risk prediction with random survival forests for recurrent events in biological systems [[poster]({{ site.baseurl }}/assets/ECCB_poster_VF.pdf)] <br> *Intelligent Systems for Molecular Biology / European Conference on Computational Biology 2023*, Lyon, France
