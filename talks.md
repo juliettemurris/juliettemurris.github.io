@@ -14,7 +14,7 @@ slug: /talks
 * Introducing recurrent events in high-dimensional frameworks [[slides]({{ site.baseurl }}/assets/20221118-JDB_Juliette_Murris.pdf)] <br> *Journées de Biostatistique 2022*, Rennes, France
 
 ### **Posters**
-* A Novel Methodological Framework for the Analysis of Health Trajectories and Survival Outcomes in Heart Failure Patients [[poster]({{ site.baseurl }}/assets/ICLR_poster.pdf)] [[linkedin post]([https://www.linkedin.com/feed/update/urn:li:activity:6996396034432061440/](https://www.linkedin.com/posts/juliettemurris_iclr2024-heka-activity-7193275649946443779-idQy?utm_source=share&utm_medium=member_desktop))] <br> *ICLR 2024 TS4H Workshop*, Vienna, Austria
+* A Novel Methodological Framework for the Analysis of Health Trajectories and Survival Outcomes in Heart Failure Patients [[poster]({{ site.baseurl }}/assets/ICLR_poster.pdf)] [[linkedin post](https://www.linkedin.com/posts/juliettemurris_iclr2024-heka-activity-7193275649946443779-idQy?utm_source=share&utm_medium=member_desktop)] <br> *ICLR 2024 TS4H Workshop*, Vienna, Austria
 
 * The curse of data maturity in observational studies: practical advice from protocol development to interpretation of results [[poster]({{ site.baseurl }}/assets/ISPOREurope23_Murris_MSR162_POSTER.pdf)] <br> *ISPOR Europe 2023*, Copenhagen, Denmark
 
