@@ -5,8 +5,9 @@ slug: /publications
 ---
 
 ### **Methodology**
-* A novel methodological framework for the analysis of health trajectories and survival outcomes in heart failure patients
- [[conference paper](https://arxiv.org/abs/2403.03138)] <br> **Murris J**, Amadei T, Kirscher T, Klein A, Tropeano AI, Katsahian S. *Learning from Time Series for Health Workshop ICLR 2024* (2024)
+* Mitigating Text Toxicity with Counterfactual Generation [[preprint](https://arxiv.org/abs/2405.09948)] <br> Bhan M, Vittaut JN, Achache N, Chesneau N, Blangero A, Legrand V, **Murris J**, Lesot MJ. (2024)
+
+* A novel methodological framework for the analysis of health trajectories and survival outcomes in heart failure patients [[conference paper](https://arxiv.org/abs/2403.03138)] <br> **Murris J**, Amadei T, Kirscher T, Klein A, Tropeano AI, Katsahian S. *Learning from Time Series for Health Workshop ICLR 2024* (2024)
 
 * Health technology assessment of artificial intelligence-based medical devices: what healthcare stakeholders need to know on algorithm performance, interpretability and explainability [[paper](https://www.mcpdigitalhealth.org/article/S2949-7612(23)00010-X/fulltext)] <br> Farah L\*, **Murris J**\*, Borget I, Guilloux A, Martelli N, Katsahian S. *Mayo Clinic Proceedings: Digital Health* (2023)
 
