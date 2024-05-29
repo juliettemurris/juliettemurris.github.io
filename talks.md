@@ -5,6 +5,8 @@ slug: /talks
 ---
 
 ### **Talks**
+* Random survival forests for the analysis of recurrent events for right-censored data, with or without a terminal event [[slides]({{ site.baseurl }}/assets/main.pdf)] <br> *Clinical Research Unit, Pompidou Hospital, 2024*, Paris, France
+* 
 * Random survival forests for analysing survival data with recurrent events [[slides]({{ site.baseurl }}/assets/SAfJR_JMurris.pdf)] <br> *Survival Analysis for Junior Researchers 2023*, Ulm, Germany
 
 * Random survival forests for analysing survival data with recurrent events [[slides]({{ site.baseurl }}/assets/ISCB44_JMurris.pdf)] <br> *Conference of the International Society for Clinical Biostatistics 2023*, Milan, Italy
