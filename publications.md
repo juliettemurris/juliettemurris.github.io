@@ -5,7 +5,7 @@ slug: /publications
 ---
 
 ### **Methodology**
-* Random survival forests for the analysis of recurrent events for right-censored data, with or without a terminal event [[preprint]([https://arxiv.org/abs/2405.09948](https://hal.science/hal-04612431v1/document))] <br> **Murris J**, Bouaziz O, Jakubczak M, Katsahian S, Lavenu A. (2024)
+* Random survival forests for the analysis of recurrent events for right-censored data, with or without a terminal event [[preprint](https://hal.science/hal-04612431v1/document)] <br> **Murris J**, Bouaziz O, Jakubczak M, Katsahian S, Lavenu A. (2024)
 
 * Mitigating Text Toxicity with Counterfactual Generation [[preprint](https://arxiv.org/abs/2405.09948)] <br> Bhan M, Vittaut JN, Achache N, Chesneau N, Blangero A, Legrand V, **Murris J**, Lesot MJ. (2024)
 
