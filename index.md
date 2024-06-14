@@ -28,10 +28,10 @@ If you identify as a junior researcher and share our enthusiasm for advancing th
 </ul>
 
 <strong>Latest news:</strong>
-> ☀️ I received the _Best Poster Award_ at the R conference in Vannes, France! You can find my poster on <a href="https://juliettemurris.github.io/talks">this page</a>
+> ☀️ _June 2024 -_ I received the _Best Poster Award_ at the R conference in Vannes, France! You can find my poster on <a href="https://juliettemurris.github.io/talks">this page</a>
  
-> 🎊 I am very happy to share I am attending <a href="https://iclr.cc/Conferences/2024">ICLR 2024</a> in Vienna, Austria! 
+> 🎊 _May 2024 -_ I am very happy to share I am attending <a href="https://iclr.cc/Conferences/2024">ICLR 2024</a> in Vienna, Austria! 
 
-> 🎉 Our protocol for SEPSISCOOL II trial is out in BMJ Open! We use an adaptive trial design to compare strategies of treatment of fever in ICU, for more info click <a href="https://bmjopen.bmj.com/content/14/1/e069430.long">here</a> 
+> 🎉 _December 2023 -_ Our protocol for SEPSISCOOL II trial is out in BMJ Open! We use an adaptive trial design to compare strategies of treatment of fever in ICU, for more info click <a href="https://bmjopen.bmj.com/content/14/1/e069430.long">here</a> 
 
-> 🎓🌐 I've just earned a certificate in #OpenScience with the Université Paris Cité, see <a href="https://u-paris.fr/bibliotheques/certification-science-ouverte-seconde-promotion-doctorants/">here</a> for further details.
+> 🎓🌐 _June 2023 -_ I've just earned a certificate in #OpenScience with the Université Paris Cité, see <a href="https://u-paris.fr/bibliotheques/certification-science-ouverte-seconde-promotion-doctorants/">here</a> for further details.
