@@ -14,7 +14,7 @@ I am primarily interested in survival analyses in medical research, with a focus
 My PhD research benefits from a Cifre grant involving <a href="https://www.pierre-fabre.com/fr">Pierre Fabre laboratories</a>. This way, I am also a part-time engineer/biostatistician in their R&D department.
 
 <div style="padding:3px; border-top:5px dashed #fff; border-bottom:5px dashed #fff; background-color:#e3e3e3;">
-And because <strong>research is all about sharing</strong>, I take great pleasure in organizing the <strong>HeKA junior seminar</strong> held at PariSanté Campus. This junior seminar is a <strong>monthly meeting<\strong> tailored for aspiring researchers within the fields of <strong>stats/ML/AI in healthcare</strong>. 
+And because <strong>research is all about sharing</strong>, I take great pleasure in organizing the <strong>HeKA junior seminar</strong> held at PariSanté Campus. This junior seminar is a <strong>monthly meeting</strong> tailored for aspiring researchers within the fields of <strong>stats/ML/AI in healthcare</strong>. 
 If you identify as a junior researcher and share our enthusiasm for advancing these disciplines, I invite you to join us! Please feel free to reach out via email if interested.
 </div>
 
