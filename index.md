@@ -22,6 +22,8 @@ My PhD research benefits from a Cifre grant involving <a href="https://www.pierr
   <li> I joined the <a href="https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/sante-publique-K2NDGZO3/master-sante-publique-parcours-donnees-massives-en-sante-K168SJQL.html">master of Public Health</a> from the University of Paris-Cité in 2020 and then started a PhD in September 2021.</li>
 </ul>
 
+<br>
+
 <strong>Latest news:</strong>
 > ☀️ _June 2024 -_ I received the _Best Poster Award_ at the R conference in Vannes, France! You can find my poster on <a href="https://juliettemurris.github.io/talks">this page</a>
  
