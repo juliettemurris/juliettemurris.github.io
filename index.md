@@ -25,6 +25,8 @@ My PhD research benefits from a Cifre grant involving <a href="https://www.pierr
 <br>
 
 <strong>Latest news:</strong>
+> 🐻 _October 2024 -_ Thrilled to share that I was selected to present my work at the Doctoral Consortium at the <a href="[https://iclr.cc/Conferences/2024](https://www.aies-conference.com/2024/)">AIES 2024 Conference</a> in San Jose, California! This is my first opportunity to present internationally, which makes the experience even more exciting!
+
 > ☀️ _June 2024 -_ I received the _Best Poster Award_ at the R conference in Vannes, France! You can find my poster on <a href="https://juliettemurris.github.io/talks">this page</a>
  
 > 🎊 _May 2024 -_ I am very happy to share I am attending <a href="https://iclr.cc/Conferences/2024">ICLR 2024</a> in Vienna, Austria! 
