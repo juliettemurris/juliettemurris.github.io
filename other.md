@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Other
+title: Other Scientific Activities
 slug: /other
 ---
 
