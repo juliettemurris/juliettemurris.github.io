@@ -20,6 +20,8 @@ header:
       slug: /talks
     - name: Teaching & supervision
       slug: /teaching
+    - name: Other
+      slug: /other
 
 footer:
   show_powered_by: true
