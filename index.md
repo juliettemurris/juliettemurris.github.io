@@ -9,7 +9,7 @@ Hi, Welcome to my webpage!
 
 I am Juliette Murris and a researcher in biostatistics and ML. 
 
-[//]: # (I am primarily interested in survival analyses in medical research, with a focus on recurrent events. I also have a strong interest in any innovative technologies, specifically when related to machine/statistical learning stakes.)
+I am primarily interested in survival analyses in medical research, with a focus on recurrent events. I also have a strong interest in any innovative technologies, specifically when related to machine/statistical learning stakes.
 
 <br>
 
