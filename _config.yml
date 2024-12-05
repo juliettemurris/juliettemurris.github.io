@@ -25,8 +25,8 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: juliette[dot]murris-ext[at]aphp.fr
-      link: mailto:juliette.murris-ext@aphp.fr
+      value: lastname[dot]firstname[at]gmail.com
+      link: mailto:murris.juliette@gmail.com
   follow:
     - name: LinkedIn
       link: http://linkedin.com/in/juliettemurris
