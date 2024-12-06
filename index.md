@@ -36,4 +36,4 @@ I am primarily interested in survival analyses in medical research, with a focus
 
 > 🎉 _December 2023 -_ Our protocol for SEPSISCOOL II trial is out in BMJ Open! We use an adaptive trial design to compare strategies of treatment of fever in ICU, for more info click <a href="https://bmjopen.bmj.com/content/14/1/e069430.long">here</a> 
 
-> 🎓🌐 _June 2023 -_ I've just earned a certificate in #OpenScience with the Université Paris Cité, see <a href="https://u-paris.fr/bibliotheques/certification-science-ouverte-seconde-promotion-doctorants/">here</a> for further details.
+> 🌐 _June 2023 -_ I've just earned a certificate in #OpenScience with the Université Paris Cité, see <a href="https://u-paris.fr/bibliotheques/certification-science-ouverte-seconde-promotion-doctorants/">here</a> for further details.
