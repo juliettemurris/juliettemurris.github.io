@@ -26,7 +26,7 @@ I am primarily interested in survival analyses in medical research, with a focus
 <br>
 
 <strong>Latest news:</strong>
-> 🥨 _December 2024 -_ I have joined the <a href="https://www.biochem.mpg.de/borgwardt">Borgwardt Lab</a> from the <a href="https://www.biochem.mpg.de/en">Max Planck Institute of Biochemistry</a> as a postdoctoral fellow. Fascinating research ahead!
+> 💻 _December 2024 -_ The first version of our <a href="https://cran.r-project.org/web/packages/recforest/index.html">recforest</a> package is out on CRAN! 
 
 > 🐻 _October 2024 -_ Thrilled to share that I was selected to present my work at the Doctoral Consortium at the <a href="[https://www.aies-conference.com/2024/](https://www.aies-conference.com/2024/)">AIES 2024 Conference</a> in San Jose, California. This is my first opportunity to present internationally, which makes the experience even more exciting!
 
