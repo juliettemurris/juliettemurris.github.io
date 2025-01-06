@@ -12,8 +12,6 @@ slug: /teaching
     - Slides [[Course 1]({{ site.baseurl }}/assets/M2_DMS_Survival_analysis.pdf)] [[Course 2]({{ site.baseurl }}/assets/Evaluation.html)] [[Course 3]({{ site.baseurl }}/assets/Evaluation.html)] [[Course 4]({{ site.baseurl }}/assets/Evaluation.html)]
     - TP [[TP1]({{ site.baseurl }}/assets/TP1.Rmd)] [[TP2]({{ site.baseurl }}/assets/TP2.Rmd)] [[TP3]({{ site.baseurl }}/assets/TP3.Rmd)] [[TP4]({{ site.baseurl }}/assets/TP4.Rmd)] [[TP5]({{ site.baseurl }}/assets/TP5.ipynb)]
 
-_________________
-
 ### **Project tutoring**
 
 #### 2024
@@ -30,8 +28,6 @@ _________________
 * Simulating recurrent events in survival framework *M1 ENSAI*
 
 * Learning algorithms to measure unbiased effect of statins on overall survival amongst Covid+ patients *M1 ENSAI*
-
-_________________
 
 ### **Internship supervision**
 
