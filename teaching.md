@@ -7,7 +7,7 @@ slug: /teaching
 ### **Teaching**
 * Survival analysis – From introductive notions to machine learning, *MSc. Public Health and Massive Health Data – Université Paris Cité*
     - Presentation [[html]({{ site.baseurl }}/assets/0_Presentation.html)]
-    - Exam [[html]({{ site.baseurl }}/assets/Evaluation.html)]
+    - Exam [[html]({{ site.baseurl }}/assets/Exam.html)]
     - Slides [[Course 1]({{ site.baseurl }}/assets/M2_DMS_Survival_analysis.pdf)] [[Course 2]({{ site.baseurl }}/assets/Evaluation.html)] [[Course 3]({{ site.baseurl }}/assets/Evaluation.html)] [[Course 4]({{ site.baseurl }}/assets/Evaluation.html)]
     - TP [[TP1]({{ site.baseurl }}/assets/TP1.Rmd)] [[TP2]({{ site.baseurl }}/assets/TP2.Rmd)] [[TP3]({{ site.baseurl }}/assets/TP3.Rmd)] [[TP4]({{ site.baseurl }}/assets/TP4.Rmd)] [[TP5]({{ site.baseurl }}/assets/TP5.ipynb)]
 
