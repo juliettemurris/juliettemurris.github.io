@@ -5,13 +5,13 @@ slug: /talks
 ---
 
 ### **Talks**
-* Predicting recurrent events in oncology [[slides]({{ site.baseurl }}/assets/main.pdf)] <br> *Max Planck Institute for Biochemistry, 2025*, Munich, Germany
+* Predicting recurrent events in oncology [[slides]({{ site.baseurl }}/assets/main.pdf)] <br> *Max Planck Institute for Biochemistry (staff meeting), 2025*, Munich, Germany
 
 * Leveraging Survival Analysis and Machine Learning for Repeated Events in Cancer Surgery: A User-Friendly R Toolkit [[video](https://youtu.be/wHlWuV6pKvQ?si=iBi8A-EIpx7S-6Jn)] <br> *The Effective Statistician Conference, 2024*, Online
 
 * Predicting Recurrent Events in a Survival Framework [[slides]({{ site.baseurl }}/assets/IDWSDS_beamer.pdf)] <br> *International Day of Women in Statistics and Data Science, 2024*, Online
 
-* Random survival forests for the analysis of recurrent events for right-censored data, with or without a terminal event [[slides]({{ site.baseurl }}/assets/main.pdf)] <br> *Clinical Research Unit, Pompidou Hospital, 2024*, Paris, France
+* Random survival forests for the analysis of recurrent events for right-censored data, with or without a terminal event [[slides]({{ site.baseurl }}/assets/main.pdf)] <br> *Clinical Research Unit (staff meeting), Pompidou Hospital, 2024*, Paris, France
 
 * Random survival forests for analysing survival data with recurrent events [[slides]({{ site.baseurl }}/assets/SAfJR_JMurris.pdf)] <br> *Survival Analysis for Junior Researchers 2023*, Ulm, Germany
 
