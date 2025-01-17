@@ -1,232 +1,75 @@
 ---
-title: "TP2 : Evaluation d'un algorithme de classification"
-author: "Juliette Murris"
-date: "Janvier 2024"
+title: "TP2"
 output: html_document
+date: "2025-01-07"
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
+# Load necessary libraries
+```{r}
+library(survival)
+library(glmnet)
+library(dplyr)
+library(ggplot2)
+library(caret)
+
 ```
 
+# I. Data management
+## Load the Heart Disease dataset (Cleveland dataset)
+```{r}
+url <- "https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/processed.cleveland.data"
+col_names <- c("age", "sex", "cp", "trestbps", "chol", "fbs", "restecg", "thalach", 
+               "exang", "oldpeak", "slope", "ca", "thal", "num")
 
-Dans ce TP nous travaillerons sur la base de données _lung_ disponible dans R. Vous avez déjà explorer les données dans le TP1 d'un point de vue de l'analyse de la survie. Ici l'objectif est d'évaluer un modèle de classification qui classe les patient selon leur statut vital. 
-
-
-## Prérequis : 
-
-Téléchargement des packages nécessaires.
-
-```{r, echo=TRUE,message=FALSE,warning=FALSE}
-  library(survival)
-  library(dplyr)
-  library(pROC)
-  library(ModelMetrics)
+heart <- read.csv(url, header = FALSE, col.names = col_names)
 ```
 
-Chargement des données : 
+## Question 1 Convert categorical variables to factors
+```{r}
+```
+
+## Question 2 Simulate survival time
+```{r}
+
+```
+
+## Question 3 Create a random train-test split
+```{r}
+
+```
+
+# II. Models
+
+## Question 1 Fit a CPH model using all covariates (except ca and thal)
 
 ```{r}
-  data(lung)
 ```
 
+## Question 2 L1 Regularized-CPH
+```{r}
 
-
-## I. Construction d'une base d'entrainement et d'une base de validation :
-
-<span style='color: #a13203; font-weight: 600;'>💬 Question 1 </span>  La création de ces deux bases avec un ratio 80/20
-
-```{r,include=TRUE}
-# Réponse :
-# 
-# 
-# 
-#
-#
-#
-#
-#
-#
 ```
 
+## Question 3 Mix of L1 and L2 Regularization
+```{r}
 
-
-
-## II. Construction :
-
-<span style='color: #a13203; font-weight: 600;'>💬 Question 1 </span>  Créer une régression logistique cherchant à expliquer le décès par les variables suivantes : _age_, _sex_, _ph.ecog_, _ph.karno_, _pat.karno_, _meal.cal_, _wt.loss_ 
-
-```{r,include=TRUE}
-# Réponse :
-# 
-# 
-# 
-#
-#
-#
-#
-#
-#
 ```
 
+# III. Model evaluation
 
+## Question 1 Evaluate each model evaluation with appropriate C-index
+```{r}
 
-
-<span style='color: #a13203; font-weight: 600;'>💬 Question 2 </span>  Ajouter dans la base _Training_set2_ une variable correspondant à la probabilité de décès 
-
-```{r,include=TRUE}
-# Réponse :
-# 
-# 
-# 
-#
-#
-#
-#
-#
-#
 ```
 
-<span style='color: #a13203; font-weight: 600;'>💬 Question 3 </span>  Utiliser la fonction _roc_ du package proc pour afficher la courbe ROC et donner l'AUC 
+# IV. Model predictions
 
-```{r,include=TRUE}
-# Réponse :
-# 
-# 
-# 
-#
-#
-#
-#
-#
-#
+## Question 1 Plot prediction curves
+```{r}
+
 ```
 
+# V. Now let's re-organise with another validation approach (For next time)
+```{r}
 
-
-<span style='color: #a13203; font-weight: 600;'>💬 Question 4</span>  Identifier parmi les éléments fournis par la fonction _roc_ lesquels peuvent être utilisés pour identifier le cut_off optimal 
-
-```{r,include=TRUE}
-# Réponse :
-# 
-# 
-# 
-#
-#
-#
-#
-#
-#
 ```
-
-
-
-
-<span style='color: #a13203; font-weight: 600;'>💬 Question 5 </span>  Déterminer le cutoff optimal  
-
-```{r,include=TRUE}
-# Réponse :
-# 
-# 
-# 
-#
-#
-#
-#
-#
-#
-```
-
-
-
-<span style='color: #a13203; font-weight: 600;'>💬 Question 6 </span>  Créer une variable _status.est_ qui est la probabilité de décès estimée par le modèle en fonction du cutoff précédemment déterminé 
-
-```{r,include=TRUE}
-# Réponse :
-# 
-# 
-# 
-#
-#
-#
-#
-#
-#
-```
-
-
-
-
-
-
-<span style='color: #a13203; font-weight: 600;'>💬 Question 7 </span>  Créer la matrice de confusion de ce modèle 
-
-```{r,include=TRUE}
-# Réponse :
-# 
-# 
-# 
-#
-#
-#
-#
-#
-#
-```
-
-
-<span style='color: #a13203; font-weight: 600;'>💬 Question 8 </span>  Calculer la sensibilité, la spécificité, l'accuracy et la précision " à la main"
-
-```{r,include=TRUE}
-# Réponse :
-# 
-# 
-# 
-#
-#
-#
-#
-#
-#
-```
-
-
-
-
-
-## II. Mesure de l'erreur sur la base de test:
-
-
-L'objectif de cette partie est d'évaluer les performances du modèle sur la base de test.
-
-<span style='color: #a13203; font-weight: 600;'>💬 Question 1 </span>  Calculer les prédictions 
-
-```{r,include=TRUE}
-# Réponse :
-# 
-# 
-# 
-#
-#
-#
-#
-#
-#
-```
-
-<span style='color: #a13203; font-weight: 600;'>💬 Question 2 </span>  Calculer la sensibilité et spécificité à partir du package _ModelMetrics_ 
-
-```{r,include=TRUE}
-# Réponse :
-# 
-# 
-# 
-#
-#
-#
-#
-#
-#
-```
-
-
