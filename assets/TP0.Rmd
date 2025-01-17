@@ -1,0 +1,220 @@
+---
+title: 'TP0 : Analyse de survie'
+author: "Juliette Murris"
+date: "Janvier 2025"
+output:
+  html_document: default
+  word_document: default
+  pdf_document: default
+---
+
+
+Dans ce TP nous travaillerons sur la base de données _bladder_ disponible dans R. 
+
+
+Téléchargement des packages nécessaires.
+
+```{r, echo=TRUE,message=FALSE,warning=FALSE}
+require(survival)
+```
+
+Chargement des données : 
+
+```{r}
+data(bladder1)
+head(bladder1)
+?bladder1
+```
+
+Data management pour l'analyse de survie :
+
+```{r}
+bladder_v1 <- bladder1[!duplicated(bladder1$id,fromLast=F),c("id","treatment","stop","status","number")] # on ne garde que la dernière observation de chaque patient
+bladder_v1$recidive <- ifelse(bladder_v1$status==1,1,0) # création de la variable récidive
+bladder_v1 <- subset(bladder_v1,treatment!="pyridoxine") # on enlève les patients qui ont eu le traitement pyridoxine
+head(bladder_v1)
+```
+
+## Ia. Kaplan-Meier et test du Logrank
+
+```{r}
+km <- survfit(Surv(stop,recidive)~1,data=bladder_v1) # estimation de la fonction de survie par la méthode KM
+plot(km)
+```
+
+```{r}
+install.packages("packHV")
+require(packHV) # package pour faire de belles courbes de survie
+plot_km(Surv(stop,recidive)~treatment,data=bladder_v1,xlab="Time (in months)",legend="topright",left=6)
+summary(km)
+survdiff(Surv(stop,recidive)~treatment,data=bladder_v1) # permet de comparer les courbes de survie par le test du logrank
+
+```
+
+## Ib. Modèle de Cox
+
+```{r}
+bladder_v1$treatment<-factor(bladder_v1$treatment) # permet d'enlever le niveau "piridoxine
+summary(coxph(Surv(stop,recidive)~treatment+number,data=bladder_v1)) # modèle de Cox
+```
+
+### Vérification de l'hypothése de proportionnalité des risques
+
+Méthode des résidus de Schoenfeld
+```{r}
+cox.zph(coxph(Surv(stop,recidive)~treatment+number,data=bladder_v1))
+```
+
+Par inclusion d'une variable dépendante du temps
+```{r}
+bladder_v1<-subset(bladder_v1,stop>0)
+bladder_v1_dep=survSplit(bladder_v1,cut=c(12),end="stop",start="start",event="recidive")
+bladder_v1_dep$treatment_new=I(bladder_v1_dep$treatment=="thiotepa")*as.numeric(bladder_v1_dep$stop>12)
+summary(coxph(Surv(start,stop,recidive)~treatment+number+treatment_new,data=bladder_v1_dep))
+```
+
+### Vérification de la log linéarité pour la variable number
+
+```{r}
+resMart <- residuals(coxph(Surv(stop,recidive)~treatment+number,data=bladder_v1), type="martingale")
+plot(bladder_v1$number, resMart, main="Martingale-residuals for number",
+     xlab="Number", ylab="Residus", pch=20)
+lines(loess.smooth(bladder_v1$number, resMart), lwd=2, col="blue")
+```
+
+
+## II. Risques compétitifs
+
+```{r}
+install.packages("cmprsk") # package pour l'analyse des risques compétitifs
+require(cmprsk)
+```
+
+Data management :
+
+```{r}
+bladder_v2<-bladder1[!duplicated(bladder1$id,fromLast=F),c("id","treatment","stop","status","number")] # on ne garde que la dernière observation de chaque patient
+bladder_v2$recidive<-ifelse(bladder_v2$status==1,1,ifelse(bladder_v2$status>1,2,0)) # création de la variable nécessaire pour les risques compétitifs
+bladder_v2<-subset(bladder_v2,treatment!="pyridoxine") # on supprime les patients ayant eu du pyridoxine
+bladder_v2$treatment<-factor(bladder_v2$treatment)
+```
+
+### IIIa. Incidence cumulée
+
+```{r}
+par(mfrow=c(1,3))
+
+#KM
+KM<-plot(survfit(Surv(stop,recidive)~treatment,data=bladder_v1),
+         col=c("blue","red"),xlab="Temps",ylab="Survie",
+         main="Kaplan-Meier",bty="l")
+legend("topright",c("Placebo","Thiotepa"),col=c("blue","red"),
+       lty=c(1,1),bty="n")
+
+#1-KM
+KM1<-plot(cuminc(bladder_v1$stop,bladder_v1$recidive,bladder_v1$treatment),
+          col=c("blue","red"),lty=c(1,1),xlab="Temps",
+          ylab="Incidence cumulée",main="1-KM")
+
+#Kalbfleisch et Prentice
+KM2<-plot(cuminc(bladder_v2$stop,bladder_v2$recidive,bladder_v2$treatment),
+          col=c("blue","red","blue","red"),lty=c(1,1,2,2),
+          xlab="Temps",ylab="Incidence cumulée",
+          main="Kalbfleish et Prentice")
+
+#test de gray
+cuminc(bladder_v2$stop,bladder_v2$recidive,bladder_v2$treatment)
+```
+
+### IIIb. Modèle de Fine and Gray
+
+```{r}
+cov1 <- model.matrix(~ factor(treatment) + number,data = bladder_v2)[, -1] # met en forme les covariables pour le modèle
+summary(crr(bladder_v2$stop,bladder_v2$recidive,cov1=cov1))
+```
+
+Plot des résidus de Schoenfeld
+```{r}
+par(mfrow=c(1,2))
+mod2<-crr(bladder_v2$stop,bladder_v2$recidive,cov1=cov1)
+for(j in 1:ncol(mod2$res))
+scatter.smooth(mod2$uft, mod2$res[,j],
+               main = names(mod2$coef)[j],
+               xlab ="Temps",
+               ylab ="Résidus de Schoenfeld")
+```
+
+Test de Lin
+```{r}
+install.packages('remotes')
+library(remotes)
+install.packages("crskdiag") # package necessaire pour le test de Lin
+require(crskdiag)
+diag_crr(Crsk(stop,recidive)~treatment+number,data=bladder_v2,test="prop",seed=1234)#permet de faire le test de Lin
+```
+
+Inclusion d'une variable dépendante du temps
+```{r}
+cov2 <- model.matrix(~ factor(treatment) +factor(treatment) +number+ number,data = bladder_v2)[,-1]#met en forme les covariables dépendantes du temps pour le modèle
+
+summary(crr(bladder_v2$stop,bladder_v2$recidive,cov1=cov1,
+          cov2=cov2[,c(2,2)],tf=function(t)return(cbind(t,t^2))))#modèle define and Gray avec variable dépendante du temps
+```
+
+## IV. Evènements récurrents
+```{r}
+?bladder2
+```
+
+
+AG
+```{r}
+summary(coxph(Surv(start,stop,event)~rx+number+cluster(id),data=bladder2))
+```
+
+PWP
+```{r}
+summary(coxph(Surv(start,stop,event)~rx+number+cluster(id)+strata(enum),data=bladder2))
+```
+
+WLW
+```{r}
+summary(coxph(Surv(stop,event)~rx+number+cluster(id)+strata(enum),data=bladder))
+```
+
+Poisson
+```{r}
+bladder_poisson<-bladder1[!duplicated(bladder1$id,fromLast=F),]#on ne garde que la dernière observation de chaque patient
+bladder_poisson<-subset(bladder_poisson,treatment!="pyridoxine")#on supprime les patients ayant eu le traitement pyridoxine
+bladder_poisson<-subset(bladder_poisson,stop>0)#on ne garde que les patients ayant été suivi
+summary(glm(recur~treatment+number+offset(log(stop)),data=bladder_poisson,family="poisson"))#modèle de poisson
+```
+
+Vérification de l'overdispersion
+```{r}
+install.packages("AER")#package necessaire
+require(AER)
+dispersiontest(glm(recur~treatment+number+offset(log(stop)),data=bladder_poisson,family="poisson"),  alternative = c("greater"))#test de l'overdispersion
+```
+
+NB
+```{r}
+require(MASS)
+summary(glm.nb(recur~treatment+number+offset(log(stop)),data=bladder_poisson))
+```
+
+Frailty
+```{r}
+summary(coxph(Surv(start,stop,event)~rx+number+frailty(id),data=bladder2))
+```
+
+## V. Modèle à fragilités
+
+```{r}
+bladder_v1$centre<-as.numeric(as.character(ifelse(bladder_v1$stop<20,1,
+                          ifelse(bladder_v1$stop>=20&bladder_v1$stop<40,2,
+                                 ifelse(bladder_v1$stop>=40&bladder_v1$stop<60,3,4)))))#création de la variable centre
+summary(coxph(Surv(stop,recidive)~treatment+number+frailty(centre),data=bladder_v1))#modèle de fragilité
+```
+
+

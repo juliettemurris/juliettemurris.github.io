@@ -8,8 +8,8 @@ slug: /teaching
 * Survival analysis – From introductive notions to machine learning, *MSc. Public Health and Massive Health Data – Université Paris Cité*
     - Presentation [[html]({{ site.baseurl }}/assets/0_Presentation.html)]
     - Exam [[html]({{ site.baseurl }}/assets/Exam.html)]
-    - Slides [[Course 1]({{ site.baseurl }}/assets/M2_DMS_Survival_analysis.pdf)] [[Course 2]({{ site.baseurl }}/assets/Evaluation.html)] [[Course 3]({{ site.baseurl }}/assets/Evaluation.html)] [[Course 4]({{ site.baseurl }}/assets/Evaluation.html)]
-    - TP [[TP1]({{ site.baseurl }}/assets/TP1.Rmd)] [[TP2]({{ site.baseurl }}/assets/TP2.Rmd)] [[TP3]({{ site.baseurl }}/assets/TP3.Rmd)] [[TP4]({{ site.baseurl }}/assets/TP4.Rmd)] [[TP5]({{ site.baseurl }}/assets/TP5.ipynb)]
+    - Slides [[Course 1: Survival analysis]({{ site.baseurl }}/assets/M2_DMS_Survival_analysis.pdf)] [[Course 2: Competing and recurrent events]({{ site.baseurl }}/assets/M2_DMS_Competing_and_recurrent_events.pdf)] [[Course 3: Prediction models]({{ site.baseurl }}/assets/M2_DMS_Prediction_models.pdf)] [[Course 4: ML for survival analysis]({{ site.baseurl }}/assets/M2_DMS_ML_for_survival_analysis.pdf)]
+    - TP [[TP0]({{ site.baseurl }}/assets/TP0.Rmd)] [[TP1]({{ site.baseurl }}/assets/TP1.Rmd)] [[TP2]({{ site.baseurl }}/assets/TP2.Rmd)] [[TP3]({{ site.baseurl }}/assets/TP3.Rmd)] [[TP4]({{ site.baseurl }}/assets/TP4.Rmd)] [[TP5]({{ site.baseurl }}/assets/TP5.ipynb)]
 
 ### **Project tutoring**
 * Interpretability for machine learning in survival framework, *M1 ENSAE Paris* (2024) [[github](https://github.com/malquier/Interpretability_of_Survival_Analysis)]
