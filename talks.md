@@ -20,8 +20,7 @@ slug: /talks
 * Introducing recurrent events in high-dimensional frameworks [[slides]({{ site.baseurl }}/assets/20221118-JDB_Juliette_Murris.pdf)] <br> *Journées de Biostatistique 2022*, Rennes, France
 
 ### **Posters**
-* Tree-Based Approaches for Interpretable Modeling in Healthcare
- [[poster]({{ site.baseurl }}/assets/AIES_poster.pdf)] <br> *AI, Ethics and Society 2024*, San Jose (CA), USA
+* Tree-Based Approaches for Interpretable Modeling in Healthcare [[long abstract](https://ojs.aaai.org/index.php/AIES/article/view/31904)] [[poster]({{ site.baseurl }}/assets/AIES_poster.pdf)] <br> *AI, Ethics and Society 2024*, San Jose (CA), USA
   
 * Predicting Hospital Readmission after Cancer Surgery with Survival Analysis and Machine Learning [[poster]({{ site.baseurl }}/assets/RR_poster_Swansea.pdf)] <br> *AI in Healthcare 2024*, Swansea, UK
 
