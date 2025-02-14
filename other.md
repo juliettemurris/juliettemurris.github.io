@@ -11,5 +11,5 @@ These days bring together the biostatistics community - from academic researcher
 For further details, please visit <a href="https://jdb2024.sciencesconf.org/" target="_blank">the official website</a>.
 
 ### **HeKA Junior Seminar**
-I took over from <a href="https://www.linusbleistein.com/" target="_blank">Linus Bleistein</a> as the organizer of the monthly junior seminar at PariSanté Campus. This seminar brings together young researchers from all labs, fostering collaboration and discussions on topics at the crossroads of statistics/ML and healthcare.
+I took over from <a href="https://www.linusbleistein.com/" target="_blank">Linus Bleistein</a> as the organizer of the monthly junior seminar at <a href="https://parisantecampus.fr" target="_blank">PariSanté Campus</a>. This seminar brings together young researchers from all labs, fostering collaboration and discussions on topics at the crossroads of statistics/ML and healthcare. [[linkedin post](https://www.linkedin.com/posts/heka-inria_over-the-past-few-months-our-teamhosted-activity-7217534385682575365-2RRx)]
 
