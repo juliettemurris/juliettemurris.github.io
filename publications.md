@@ -13,7 +13,7 @@ slug: /publications
 
 * Random survival forests for the analysis of recurrent events for right-censored data, with or without a terminal event [[preprint](https://hal.science/hal-04612431v1/document)] <br> **Murris J**, Bouaziz O, Jakubczak M, Katsahian S, Lavenu A. (2024)
 
-* A novel methodological framework for the analysis of health trajectories and survival outcomes in heart failure patients [[conference paper](https://arxiv.org/abs/2403.03138)] <br> **Murris J**, Amadei T, Kirscher T, Klein A, Tropeano AI, Katsahian S. *Learning from Time Series for Health Workshop ICLR 2024* (2024)
+* A novel methodological framework for the analysis of health trajectories and survival outcomes in heart failure patients [[paper](https://arxiv.org/abs/2403.03138)] <br> **Murris J**, Amadei T, Kirscher T, Klein A, Tropeano AI, Katsahian S. *Learning from Time Series for Health Workshop ICLR 2024* (2024)
 
 * Health technology assessment of artificial intelligence-based medical devices: what healthcare stakeholders need to know on algorithm performance, interpretability and explainability [[paper](https://www.mcpdigitalhealth.org/article/S2949-7612(23)00010-X/fulltext)] <br> Farah L\*, **Murris J**\*, Borget I, Guilloux A, Martelli N, Katsahian S. *Mayo Clinic Proceedings: Digital Health* (2023)
 
