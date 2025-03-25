@@ -5,7 +5,7 @@ slug: /publications
 ---
 
 ### **Methodology**
-* Mitigating Text Toxicity with Counterfactual Generation [[paper](https://arxiv.org/abs/2405.09948)] <br> Bhan M, Vittaut JN, Achache N, Chesneau N, Blangero A, Legrand V, **Murris J**, Lesot MJ. _Accepted at XAI 2025 conference_(2025)
+* Mitigating Text Toxicity with Counterfactual Generation [[paper](https://arxiv.org/abs/2405.09948)] <br> Bhan M, Vittaut JN, Achache N, Chesneau N, Blangero A, Legrand V, **Murris J**, Lesot MJ. _3rd World Conference on eXplainable Artificial Intelligence 2025_ (2025)
 
 * Bridging interpretability and survival endpoints in health technology assessment [[preprint](https://hal.science/hal-04967719v1/document)] <br> **Murris J**, Bhan M, Ducrot L, Katsahian S. (2025)
   
