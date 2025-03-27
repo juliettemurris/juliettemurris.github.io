@@ -9,7 +9,7 @@ slug: /publications
 
 * Bridging interpretability and survival endpoints in health technology assessment [[preprint](https://hal.science/hal-04967719v1/document)] <br> **Murris J**, Bhan M, Ducrot L, Katsahian S. (2025)
   
-* Predicting Hospital Readmission after Cancer Surgery with Survival Analysis and Machine Learning [[short paper](https://zenodo.org/records/13152435)] <br> **Murris J**, Katsahian S, Lavenu A. <br> *International Conference on AI in Healthcare (AIiH), Swansea. AIiH* (2024)
+* Predicting Hospital Readmission after Cancer Surgery with Survival Analysis and Machine Learning [[short paper](https://zenodo.org/records/13152435)] <br> **Murris J**, Katsahian S, Lavenu A. <br> _International Conference on AI in Healthcare_ (2024)
 
 * Random survival forests for the analysis of recurrent events for right-censored data, with or without a terminal event [[preprint](https://hal.science/hal-04612431v1/document)] <br> **Murris J**, Bouaziz O, Jakubczak M, Katsahian S, Lavenu A. (2024)
 
