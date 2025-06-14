@@ -5,6 +5,8 @@ slug: /publications
 ---
 
 ### **Methodology**
+* SurvTreeSHAP(t): scalable explanation method for tree-based survival models [[paper](https://hal.science/view/index/docid/5108033)] <br> Ducrot L, Fevry G, Dano C, Texier R, **Murris J**, Katsahian S. <br> _Workshop on Explainable Artificial Intelligence (XAI), IJCAI 2025_ (2025)
+
 * Mitigating Text Toxicity with Counterfactual Generation [[paper](https://arxiv.org/abs/2405.09948)] <br> Bhan M, Vittaut JN, Achache N, Chesneau N, Blangero A, Legrand V, **Murris J**, Lesot MJ. <br> _3rd World Conference on eXplainable Artificial Intelligence 2025_ (2025)
 
 * Bridging interpretability and survival endpoints in health technology assessment [[preprint](https://hal.science/hal-04967719v1/document)] <br> **Murris J**, Bhan M, Ducrot L, Katsahian S. (2025)
@@ -13,7 +15,7 @@ slug: /publications
 
 * Random survival forests for the analysis of recurrent events for right-censored data, with or without a terminal event [[preprint](https://hal.science/hal-04612431v1/document)] <br> **Murris J**, Bouaziz O, Jakubczak M, Katsahian S, Lavenu A. (2024)
 
-* A novel methodological framework for the analysis of health trajectories and survival outcomes in heart failure patients [[paper](https://arxiv.org/abs/2403.03138)] <br> **Murris J**, Amadei T, Kirscher T, Klein A, Tropeano AI, Katsahian S. <br> *Learning from Time Series for Health Workshop ICLR 2024* (2024)
+* A novel methodological framework for the analysis of health trajectories and survival outcomes in heart failure patients [[paper](https://arxiv.org/abs/2403.03138)] <br> **Murris J**, Amadei T, Kirscher T, Klein A, Tropeano AI, Katsahian S. <br> *Learning from Time Series for Health Workshop, ICLR 2024* (2024)
 
 * Health technology assessment of artificial intelligence-based medical devices: what healthcare stakeholders need to know on algorithm performance, interpretability and explainability [[paper](https://www.mcpdigitalhealth.org/article/S2949-7612(23)00010-X/fulltext)] <br> Farah L\*, **Murris J**\*, Borget I, Guilloux A, Martelli N, Katsahian S. <br> *Mayo Clinic Proceedings: Digital Health* (2023)
 
