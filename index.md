@@ -7,9 +7,9 @@ profile_picture:
 
 Hi, Welcome to my webpage!
 
-I am Juliette Murris and a researcher in biostatistics and ML. 
+I am Juliette, both a biostatistitician and an ML researcher. 
 
-I am currently a postdoctoral researcher at the Max Planck Institute of Biochemistry working at the intersection of machine learning, bioinformatics and biology.
+I am currently a postdoctoral fellow at the Max Planck Institute of Biochemistry in the Munich area 🥨 working at the intersection of machine learning, bioinformatics and biology.
 
 <br>
 
