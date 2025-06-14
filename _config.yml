@@ -36,6 +36,8 @@ footer:
       link: https://orcid.org/0000-0002-7017-9865
     - name: RGate
       link: https://www.researchgate.net/profile/Juliette-Murris?ev=hdr_xprf
+    - name: GScholar
+      link: https://scholar.google.com/citations?user=pLBeL6AAAAAJ&hl=fr
 
 # Build settings
 markdown: kramdown
