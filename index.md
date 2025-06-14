@@ -7,7 +7,7 @@ profile_picture:
 
 Hi, Welcome to my webpage!
 
-I am Juliette, both a biostatistitician and an ML researcher. 
+I am Juliette, both a biostatistician and an ML researcher. 
 
 I am currently a postdoctoral fellow at the Max Planck Institute of Biochemistry in the Munich area 🥨 working at the intersection of machine learning, bioinformatics and biology.
 
