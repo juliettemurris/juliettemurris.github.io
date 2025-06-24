@@ -20,7 +20,7 @@ I am currently a postdoctoral fellow at the Max Planck Institute of Biochemistry
   <li> 2020/24 – Alongside my research, I worked part-time as a biostatistician in the R&D department at <a href="https://www.pierre-fabre.com/fr">Pierre Fabre laboratories</a>;</li>
   <li> 2020/21 – I joined the <a href="https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/sante-publique-K2NDGZO3/master-sante-publique-parcours-donnees-massives-en-sante-K168SJQL.html">master of Public Health</a> from the Université Paris-Cité;</li>
   <li> 2018/20 – I worked for 2.5 years at <a href="https://www.amaris.com/">Amaris</a> as a consultant in Health Economics and Market Access;</li>
-  <li> 2018 – I graduated from the <a href="https://www.ensai.fr/">National School of Statistics</a> in France with a major in Data Science for Healthcare.</li>
+  <li> 2018 – I graduated from the <a href="https://www.ensai.fr/">National School of Statistics</a> in France with a major in Science for Healthcare.</li>
 </ul>
 
 <br>
