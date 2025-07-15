@@ -24,6 +24,8 @@ slug: /publications
 * A comparison of methods for high-dimensional survival data on small samples: hyperparameter optimization and validation [[short paper](https://jds22.sciencesconf.org/data/pages/LivretJdS22_version_longue.pdf)] <br> Lavenu A, **Murris J**, Mareau A, Rouzé T, Fromont M, Gares V, Katsahian S. <br> *53ème Journées de Statistique de la SFdS* (2022)
 
 ### **Clinical studies**
+* Fluid balance after cardiac arrest : Any impact on outcome? Insights from the MIMIC IV database [paper] <br> Didier J, **Murris J**, et al. <br> *Resuscitation Plus* (2025)
+
 * Evolution of minimally invasive liver surgery in France over the last decade [[paper](https://link.springer.com/article/10.1007/s00464-024-10951-3)] <br> Deyrat J, […] **Murris J**, et al. <br> *Surgical Endoscopy* (2024)
   
 * Increased levels of GM-CSF and CXCL10 and low CD8+ memory stem T Cell count are markers of immunosenescence and severe COVID-19 in older people [[paper](https://immunityageing.biomedcentral.com/articles/10.1186/s12979-024-00430-7)] <br> Poisson J, […] **Murris J**, et al. <br> *Immunity & Ageing* (2024)
