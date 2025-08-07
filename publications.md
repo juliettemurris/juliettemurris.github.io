@@ -24,7 +24,7 @@ slug: /publications
 * A comparison of methods for high-dimensional survival data on small samples: hyperparameter optimization and validation [[short paper](https://jds22.sciencesconf.org/data/pages/LivretJdS22_version_longue.pdf)] <br> Lavenu A, **Murris J**, Mareau A, Rouzé T, Fromont M, Gares V, Katsahian S. *53ème Journées de Statistique de la SFdS* (2022)
 
 ### **Clinical studies**
-* Fluid balance after cardiac arrest : Any impact on outcome? Insights from the MIMIC IV database [paper] <br> Didier J, **Murris J**, et al. *Resuscitation Plus* (2025)
+* Fluid balance after cardiac arrest : Any impact on outcome? Insights from the MIMIC IV database [[paper](https://www.sciencedirect.com/science/article/pii/S2666520425001742)] <br> Didier J, **Murris J**, et al. *Resuscitation Plus* (2025)
 
 * Evolution of minimally invasive liver surgery in France over the last decade [[paper](https://link.springer.com/article/10.1007/s00464-024-10951-3)] <br> Deyrat J, […] **Murris J**, et al. *Surgical Endoscopy* (2024)
   
