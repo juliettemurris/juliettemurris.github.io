@@ -5,6 +5,8 @@ slug: /publications
 ---
 
 ### **Methodology**
+* Random survival forests for the analysis of recurrent events for right-censored data, with or without a terminal event [[preprint](https://hal.science/hal-04612431v1/document)] <br> **Murris J**, Bouaziz O, Jakubczak M, Katsahian S, Lavenu A. _Accepted for publication, BMC Medical Research Methodology_ (2025)
+ 
 * SurvTreeSHAP(t): scalable explanation method for tree-based survival models [[paper](https://hal.science/view/index/docid/5108033)] <br> Ducrot L, Fevry G, Dano C, Texier R, **Murris J**, Katsahian S. _Workshop on Explainable Artificial Intelligence (XAI), IJCAI 2025_ (2025)
 
 * Mitigating Text Toxicity with Counterfactual Generation [[paper](https://arxiv.org/abs/2405.09948)] <br> Bhan M, Vittaut JN, Achache N, Chesneau N, Blangero A, Legrand V, **Murris J**, Lesot MJ. _3rd World Conference on eXplainable Artificial Intelligence 2025_ (2025)
@@ -12,8 +14,6 @@ slug: /publications
 * Bridging interpretability and survival endpoints in health technology assessment [[preprint](https://hal.science/hal-04967719v1/document)] <br> **Murris J**, Bhan M, Ducrot L, Katsahian S. (2025)
   
 * Predicting Hospital Readmission after Cancer Surgery with Survival Analysis and Machine Learning [[short paper](https://zenodo.org/records/13152435)] <br> **Murris J**, Katsahian S, Lavenu A. _International Conference on AI in Healthcare_ (2024)
-
-* Random survival forests for the analysis of recurrent events for right-censored data, with or without a terminal event [[preprint](https://hal.science/hal-04612431v1/document)] <br> **Murris J**, Bouaziz O, Jakubczak M, Katsahian S, Lavenu A. (2024)
 
 * A novel methodological framework for the analysis of health trajectories and survival outcomes in heart failure patients [[paper](https://arxiv.org/abs/2403.03138)] <br> **Murris J**, Amadei T, Kirscher T, Klein A, Tropeano AI, Katsahian S. *Learning from Time Series for Health Workshop, ICLR 2024* (2024)
 
