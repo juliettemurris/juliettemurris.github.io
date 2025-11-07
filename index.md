@@ -22,18 +22,3 @@ I am currently a postdoctoral fellow at the Max Planck Institute of Biochemistry
   <li> 2018/20 – I worked for 2.5 years at <a href="https://www.amaris.com/">Amaris</a> as a consultant in Health Economics and Market Access;</li>
   <li> 2018 – I graduated from the <a href="https://www.ensai.fr/">National School of Statistics</a> in France with a major in Science for Healthcare.</li>
 </ul>
-
-<br>
-
-<strong>Latest news:</strong>
-> 💻 _December 2024 –_ The first version of our <a href="https://cran.r-project.org/web/packages/recforest/index.html">recforest</a> package is out on CRAN! 
-
-> 🐻 _October 2024 –_ Thrilled to share that I was selected to present my work at the Doctoral Consortium at the <a href="[https://www.aies-conference.com/2024/](https://www.aies-conference.com/2024/)">AIES 2024 Conference</a> in San Jose, California. This is my first opportunity to present internationally, which makes the experience even more exciting!
-
-> ☀️ _June 2024 –_ I received the _Best Poster Award_ at the R conference in Vannes, France! You can find my poster on <a href="https://juliettemurris.github.io/talks">this page</a>
- 
-> 🎊 _May 2024 –_ I am very happy to share I am attending <a href="https://iclr.cc/Conferences/2024">ICLR 2024</a> in Vienna, Austria! 
-
-> 🎉 _December 2023 –_ Our protocol for SEPSISCOOL II trial is out in BMJ Open! We use an adaptive trial design to compare strategies of treatment of fever in ICU, for more info click <a href="https://bmjopen.bmj.com/content/14/1/e069430.long">here</a> 
-
-> 🌐 _June 2023 –_ I've just earned a certificate in #OpenScience with the Université Paris Cité, see <a href="https://u-paris.fr/bibliotheques/certification-science-ouverte-seconde-promotion-doctorants/">here</a> for further details.
