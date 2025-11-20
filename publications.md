@@ -5,7 +5,7 @@ slug: /publications
 ---
 
 ### **Methodology**
-* Random survival forests for the analysis of recurrent events for right-censored data, with or without a terminal event [[preprint](https://hal.science/hal-04612431v1/document)] <br> **Murris J**, Bouaziz O, Jakubczak M, Katsahian S, Lavenu A. _Accepted for publication, BMC Medical Research Methodology_ (2025)
+* Random survival forests for the analysis of recurrent events for right-censored data, with or without a terminal event [[paper](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-025-02678-z)] <br> **Murris J**, Bouaziz O, Jakubczak M, Katsahian S, Lavenu A. _BMC Medical Research Methodology_ (2025)
  
 * SurvTreeSHAP(t): scalable explanation method for tree-based survival models [[paper](https://hal.science/view/index/docid/5108033)] <br> Ducrot L, Fevry G, Dano C, Texier R, **Murris J**, Katsahian S. _Workshop on Explainable Artificial Intelligence (XAI), IJCAI 2025_ (2025)
 
