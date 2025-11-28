@@ -5,7 +5,7 @@ slug: /talks
 ---
 
 ### **Talks**
-* From point clouds to spatial protein organization: An introduction to Topological Data Analysis From point clouds to synaptic protein organization: An introduction to Topological Data Analysis <br> *25th Forum of young mathematicians, Women in Maths, 2025*, Bordeaux, France
+* From point clouds to spatial protein organization: An introduction to Topological Data Analysis <br> *25th Forum of young mathematicians, Women in Maths, 2025*, Bordeaux, France
 
 * Leveraging Survival Analysis and Machine Learning for Repeated Events in Cancer Surgery: A User-Friendly R Toolkit [[video](https://youtu.be/wHlWuV6pKvQ?si=iBi8A-EIpx7S-6Jn)] <br> *The Effective Statistician Conference, 2024*, Online
 
