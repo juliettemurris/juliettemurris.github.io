@@ -5,21 +5,25 @@ slug: /talks
 ---
 
 ### **Talks**
-* From point clouds to spatial protein organization: An introduction to Topological Data Analysis <br> *25th Forum of young mathematicians, Women in Maths, 2025*, Bordeaux, France
+* Survival Analysis of Recurrent Clinical Events: Combining Statistics and Machine Learning <br> *AIxBio Seminar, December 2025*, Munich, Germany
 
-* Leveraging Survival Analysis and Machine Learning for Repeated Events in Cancer Surgery: A User-Friendly R Toolkit [[video](https://youtu.be/wHlWuV6pKvQ?si=iBi8A-EIpx7S-6Jn)] <br> *The Effective Statistician Conference, 2024*, Online
+* From point clouds to spatial protein organization: An introduction to Topological Data Analysis <br> *25th Forum of young mathematicians, Women in Maths, November 2025*, Bordeaux, France
 
-* Predicting Recurrent Events in a Survival Framework [[slides]({{ site.baseurl }}/assets/IDWSDS_beamer.pdf)] <br> *International Day of Women in Statistics and Data Science, 2024*, Online
+* SurvTreeSHAP(t) : scalable explanation method for tree-based survival models <br> *Workshop on Explainable Artificial Intelligence, IJCAI, August 2025*, Montreal, Canada, presented by L. Ducrot
 
-* Random survival forests for the analysis of recurrent events for right-censored data, with or without a terminal event [[slides]({{ site.baseurl }}/assets/main.pdf)] <br> *Clinical Research Unit, Pompidou Hospital, 2024*, Paris, France
+* Leveraging Survival Analysis and Machine Learning for Repeated Events in Cancer Surgery: A User-Friendly R Toolkit [[video](https://youtu.be/wHlWuV6pKvQ?si=iBi8A-EIpx7S-6Jn)] <br> *The Effective Statistician Conference, October 2024*, Online
 
-* Random survival forests for analysing survival data with recurrent events [[slides]({{ site.baseurl }}/assets/SAfJR_JMurris.pdf)] <br> *Survival Analysis for Junior Researchers 2023*, Ulm, Germany
+* Predicting Recurrent Events in a Survival Framework [[slides]({{ site.baseurl }}/assets/IDWSDS_beamer.pdf)] <br> *International Day of Women in Statistics and Data Science, October 2024*, Online
 
-* Random survival forests for analysing survival data with recurrent events [[slides]({{ site.baseurl }}/assets/ISCB44_JMurris.pdf)] <br> *Conference of the International Society for Clinical Biostatistics 2023*, Milan, Italy
+* Random survival forests for the analysis of recurrent events for right-censored data, with or without a terminal event [[slides]({{ site.baseurl }}/assets/main.pdf)] <br> *Clinical Research Unit, Pompidou Hospital, September 2024*, Paris, France
 
-* Decision trees for analyzing survival data with recurrent events [[slides]({{ site.baseurl }}/assets/JdS2023_JMurris.pdf)] <br> *Journées de Statistique 2023*, Brussels, Belgium
+* Random survival forests for analysing survival data with recurrent events [[slides]({{ site.baseurl }}/assets/SAfJR_JMurris.pdf)] <br> *Survival Analysis for Junior Researchers, September 2023*, Ulm, Germany
 
-* Introducing recurrent events in high-dimensional frameworks [[slides]({{ site.baseurl }}/assets/20221118-JDB_Juliette_Murris.pdf)] <br> *Journées de Biostatistique 2022*, Rennes, France
+* Random survival forests for analysing survival data with recurrent events [[slides]({{ site.baseurl }}/assets/ISCB44_JMurris.pdf)] <br> *Conference of the International Society for Clinical Biostatistics, August 2023*, Milan, Italy
+
+* Decision trees for analyzing survival data with recurrent events [[slides]({{ site.baseurl }}/assets/JdS2023_JMurris.pdf)] <br> *Journées de Statistique, July 2023*, Brussels, Belgium
+
+* Introducing recurrent events in high-dimensional frameworks [[slides]({{ site.baseurl }}/assets/20221118-JDB_Juliette_Murris.pdf)] <br> *Journées de Biostatistique, November 2022*, Rennes, France
 
 ### **Posters**
 * Tree-Based Approaches for Interpretable Modeling in Healthcare [[long abstract](https://ojs.aaai.org/index.php/AIES/article/view/31904)] [[poster]({{ site.baseurl }}/assets/AIES_poster.pdf)] <br> *AI, Ethics and Society 2024*, San Jose (CA), USA
