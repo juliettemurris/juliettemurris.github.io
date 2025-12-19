@@ -30,7 +30,7 @@ slug: /talks
   
 * Predicting Hospital Readmission after Cancer Surgery with Survival Analysis and Machine Learning [[poster]({{ site.baseurl }}/assets/RR_poster_Swansea.pdf)] <br> *AI in Healthcare*, September 2024, Swansea, UK
 
-* RecForest: Random survival forests to analyze recurrent events in R [[poster]({{ site.baseurl }}/assets/RR_poster.pdf)] <br> *Rencontres R*, June 2024, Vannes, France - ☀️ _Best Poster Award_
+* RecForest: Random survival forests to analyze recurrent events in R [[poster]({{ site.baseurl }}/assets/RR_poster.pdf)] <br> *Rencontres R*, June 2024, Vannes, France ☀️ _Best Poster Award_
 
 * A Novel Methodological Framework for the Analysis of Health Trajectories and Survival Outcomes in Heart Failure Patients [[poster]({{ site.baseurl }}/assets/ICLR_poster.pdf)] [[linkedin post](https://www.linkedin.com/posts/juliettemurris_iclr2024-heka-activity-7193275649946443779-idQy?utm_source=share&utm_medium=member_desktop)] <br> *ICLR TS4H Workshop*, May 2024, Vienna, Austria
 
@@ -38,13 +38,13 @@ slug: /talks
 
 * Improving survival risk prediction with random survival forests for recurrent events in biological systems [[poster]({{ site.baseurl }}/assets/ECCB_poster_VF.pdf)] <br> *Intelligent Systems for Molecular Biology / European Conference on Computational Biology*, July 2023, Lyon, France
 
-* Novel data visualization and unsupervised machine learning techniques to support optimal management of toxicity profiles of encorafenib plus cetuximab in patients with BRAFV600E-mutant metastatic colorectal cancer [[poster]({{ site.baseurl }}/assets/POSTER-Fabre-dataviz-2023-ESMO-V1R1_VF_WEB.pdf)] <br> *ESMO *, June 2023, Barcelona, Spain
+* Novel data visualization and unsupervised machine learning techniques to support optimal management of toxicity profiles of encorafenib plus cetuximab in patients with BRAFV600E-mutant metastatic colorectal cancer [[poster]({{ site.baseurl }}/assets/POSTER-Fabre-dataviz-2023-ESMO-V1R1_VF_WEB.pdf)] <br> *ESMO*, June 2023, Barcelona, Spain
 
 * Data Visualization in Real-World Studies to Aid Understanding and Interpretation [[poster]({{ site.baseurl }}/assets/2022-10-18_POSTER-Fabre-dataviz-2022-ISPOR_vf.pdf)] [[linkedin post](https://www.linkedin.com/feed/update/urn:li:activity:6996396034432061440/)] <br> *ISPOR Europe*, November 2022, Vienna, Austria
 
 * Key notions in health technology assessment of AI-based medical devices: what healthcare stakeholders need to know [[poster]({{ site.baseurl }}/assets/SnB2022_poster1_VF.pdf)] <br> *Statistics and Biopharmacy*, November 2022, Paris, France
 
-* Towards filling the gap around recurrent events in high dimensional framework: literature review and early comparison [[poster]({{ site.baseurl }}/assets/SnB2022_poster2_VF.pdf)] <br> *Statistics and Biopharmacy*, September 2022, Paris, France
+* Towards filling the gap around recurrent events in high dimensional framework: literature review and early comparison [[poster]({{ site.baseurl }}/assets/SnB2022_poster2_VF.pdf)] <br> *Statistics and Biopharmacy*, November 2022, Paris, France
 
 * Prevalence of visible skin diseases, an international study of 13,138 people <br> *Journées Dermatologiques de Paris*, June 2021, Paris, France
 
