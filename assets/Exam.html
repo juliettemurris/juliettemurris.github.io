@@ -9,10 +9,10 @@
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
+<meta name="author" content="Juliette Murris" />
 
-<meta name="date" content="2025-01-20" />
 
-<title>Exam - M2 DMS 2025</title>
+<title>Exam - M2 DMS 2026</title>
 
 <script>// Pandoc 2.9 adds attributes on both header and div. We remove the former (to
 // be compatible with the behavior of Pandoc < 2.8).
@@ -349,54 +349,116 @@ display: none;
 
 
 
-<h1 class="title toc-ignore">Exam - M2 DMS 2025</h1>
-<h4 class="date">2025-01-20</h4>
+<h1 class="title toc-ignore">Exam - M2 DMS 2026</h1>
+<h4 class="author">Juliette Murris</h4>
+<h4 class="date">Janvier 2026</h4>
 
 </div>
 
 
 <div id="context" class="section level1">
 <h1>Context</h1>
-<p>The choice of therapy in individual atrial fibrillation (AF) patients
-is largely dependent on AF subtype and present and predicted future
-symptom burden and morbidity, while the indication for anticoagulation
-treatment is closely related to stroke risk factors. Treatment options
-include rate controlling pharmacological agents, electrical and
-pharmacological cardioversion (CV), prophylactic antiarrhythmic
-medication (AAM) and catheter ablation procedures (Kirchhof 2016).</p>
-<p>A central challenge in managing paroxysmal atrial fibrillation (PAF)
-and persistent atrial fibrillation (PeAF) is predicting future risks of
-morbidity and mortality. Accurate prediction models are crucial for
-personalizing treatment plans and improving patient outcomes.</p>
+<p>Emergency departments (EDs) serve as the critical interface between
+acute patient needs and hospital resources. In the United States alone,
+over 130 million ED visits occur annually, with EDs functioning as the
+entry point for more than half of all hospital admissions. The ability
+to accurately predict patient outcomes at the time of ED presentation
+has profound implications for clinical decision-making, resource
+allocation, and patient safety.</p>
+<p>Three key outcomes are particularly relevant in the ED setting:</p>
+<ul>
+<li><p><strong>Hospitalization</strong>: Determining which patients
+require inpatient admission versus safe discharge is a fundamental ED
+decision. Approximately 15-20% of ED patients are admitted, but this
+decision is often made under time pressure with incomplete information.
+Accurate prediction models could support disposition decisions and
+improve patient flow.</p></li>
+<li><p><strong>Critical outcomes</strong>: A subset of ED patients will
+deteriorate rapidly, requiring intensive care unit (ICU) transfer or
+experiencing in-hospital mortality. Early identification of these
+high-risk patients—often within the first hours of presentation—enables
+proactive interventions and appropriate monitoring.</p></li>
+<li><p><strong>ED revisits</strong>: Unplanned return visits within 72
+hours reflect potential gaps in initial care, premature discharge, or
+disease progression. This outcome serves as both a quality indicator and
+a patient safety metric.</p></li>
+</ul>
+<p>The temporal nature of these outcomes—<em>when</em> events occur, not
+just <em>whether</em> they occur—makes survival analysis a natural
+methodological framework. Unlike classification approaches that predict
+binary outcomes at fixed time points, survival methods explicitly model
+time-to-event data, handle censoring appropriately, and can incorporate
+time-varying risk assessment.</p>
 </div>
 <div id="objectives" class="section level1">
 <h1>Objectives</h1>
-<p>Develop a survival prediction model for morbi-mortality risk in
-patients with PAF and PeAF using statistical modeling techniques.</p>
+<p>The goal of this exam is to develop and evaluate a survival
+prediction framework for ED patient outcomes using the MIMIC-IV-ED
+database.</p>
+<p>Xie et al. (2022) established benchmark models for ED outcome
+prediction using machine learning classification methods (logistic
+regression, random forest, gradient boosting, neural networks). Their
+work treated outcomes as binary classification tasks—predicting whether
+hospitalization, critical outcomes, or 72-hour revisits would occur.</p>
+<p>However, a survival analysis framework offers several potential
+advantages:</p>
+<ul>
+<li><p><strong>Time-to-event modeling</strong>: Rather than predicting
+“will this patient be admitted?”, survival models can answer “when is
+this patient likely to require admission?” This temporal granularity
+supports operational planning.</p></li>
+<li><p><strong>Censoring</strong>: Patients who leave against medical
+advice, transfer to other facilities, or have incomplete follow-up are
+naturally handled through censoring mechanisms.</p></li>
+<li><p><strong>Competing risks</strong>: ED outcomes are not
+independent—a patient who dies cannot be readmitted; a patient
+transferred to ICU has a different risk trajectory than one discharged
+home. Survival frameworks explicitly model these competing
+events.</p></li>
+<li><p><strong>Dynamic prediction</strong>: Survival models can update
+risk estimates as new information (vital signs, lab results) becomes
+available during the ED stay.</p></li>
+</ul>
+<p><strong>Your task</strong>: Select one or more outcomes from the
+MIMIC-IV-ED dataset and develop an appropriate survival analysis
+approach. You should justify whether a survival framework provides
+advantages over the classification approach used by Xie et al., and
+demonstrate this empirically where possible.</p>
 </div>
 <div id="data" class="section level1">
 <h1>Data</h1>
-<p>Data from the “Atrial Fibrillation Survey–Copenhagen (ATLAS-CPH)”
-collected between January 1st, 2008 and December 1st, 2012 from both in-
-and outpatient clinics at the Department of Cardiology, University
-Hospital Copenhagen, Hvidovre, Denmark.</p>
-<p><strong>Inclusion Criteria:</strong></p>
-<ul>
-<li>Age &gt; 18 years</li>
-<li>Recent (&lt; 1 month) AF documented via ECG or home monitoring</li>
-<li>Able to provide written informed consent</li>
-<li>No valvular AF, and exclusion of other temporary AF forms</li>
-</ul>
-<p>PAF was defined by spontaneous conversion to sinus rhythm. PeAF was
-defined by episodes &gt; 7 days or requiring medical/electrical
-cardioversion.</p>
-<p>Out of 189 patients meeting the inclusion criteria, 15 were excluded
-(13 due to invasive ablation, 2 due to estimated survival &lt;1 year). A
-total of 174 patients were included in the study, all of Caucasian
-ethnicity. The mean follow-up duration was 1279 days, contributing
-222,459 person-days.</p>
-<p><strong>Dataset Access</strong>: All data are available <a href="https://doi.org/10.1371/journal.pone.0217983.s001">here</a>
-(Schroder et al., 2019).</p>
+<p>Data are derived from the <strong>MIMIC-IV-ED</strong> database
+(Medical Information Mart for Intensive Care - Emergency Department),
+which contains de-identified health records from the Emergency
+Department at Beth Israel Deaconess Medical Center, Boston,
+Massachusetts.</p>
+<p><strong>Population</strong>: The database includes 425,087 ED stays
+corresponding to 216,878 unique adult patients (≥18 years). Patients may
+have multiple ED visits, creating a natural clustering structure.</p>
+</div>
+<div id="data-access" class="section level1">
+<h1>Data Access</h1>
+<p><strong>Full dataset</strong>: MIMIC-IV-ED requires credentialed
+access through PhysioNet. The credentialing process involves:</p>
+<ol style="list-style-type: decimal">
+<li>Complete CITI “Data or Specimens Only Research” training</li>
+<li>Create a PhysioNet account with institutional email</li>
+<li>Submit credentialing application (supervisor information
+required)</li>
+<li>Sign the Data Use Agreement</li>
+<li>Request access to MIMIC-IV-ED</li>
+</ol>
+<p>Access: <a href="https://physionet.org/content/mimic-iv-ed/">https://physionet.org/content/mimic-iv-ed/</a></p>
+<p><strong>Demo dataset</strong>: For immediate access without
+credentialing, a demonstration subset (100 patients) is freely
+available:</p>
+<p><a href="https://physionet.org/content/mimic-iv-ed-demo/">https://physionet.org/content/mimic-iv-ed-demo/</a></p>
+<p>The demo dataset preserves the database structure and can be used for
+code development and methodology testing, though statistical conclusions
+will be limited.</p>
+<p><strong>Benchmark code</strong>: Data processing pipelines are
+available at:</p>
+<p><a href="https://github.com/nliulab/mimic4ed-benchmark">https://github.com/nliulab/mimic4ed-benchmark</a></p>
 </div>
 <div id="methodology" class="section level1">
 <h1>Methodology</h1>
@@ -404,46 +466,44 @@ ethnicity. The mean follow-up duration was 1279 days, contributing
 <h3>Requirements</h3>
 <p>In your analysis, justify the following choices:</p>
 <ul>
-<li><strong>The choice of endpoint(s)</strong>: Why were certain
-endpoints selected for survival analysis?</li>
-<li><strong>The model(s)</strong>: What survival models will you use,
-and why?</li>
-<li><strong>Model evaluation and validation</strong>: How will you
-validate the model ?</li>
-<li><strong>Handling missing data and covariates</strong>: What methods
-will you use to address missing data, and why?</li>
-<li><strong>Model assumptions</strong>: What assumptions are made about
-the data and how do you plan to check for them?</li>
-<li>…</li>
+<li><p><strong>The choice of endpoint(s)</strong>: Which outcome(s) will
+you model? How do you define the time origin, event, and censoring? Are
+there competing events to consider?</p></li>
+<li><p><strong>The survival model(s)</strong>: What survival framework
+will you use? Why is this approach appropriate for your chosen
+endpoint?</p></li>
+<li><p><strong>Comparison with classification</strong>: How does your
+survival approach compare to the binary classification framework used by
+Xie et al.? What additional insights does the survival framework
+provide?</p></li>
+<li><p><strong>Model evaluation and validation</strong>: How will you
+assess model performance?</p></li>
 </ul>
 </div>
 <div id="deliverables" class="section level3">
 <h3>Deliverables</h3>
 <p>Please submit the following:</p>
 <ul>
-<li><strong>A slide deck</strong> focusing on methodology, experiments,
-and results. Do <strong>not</strong> include data description in your
-presentation; focus on the rationales behind your methodological
-choices.</li>
-<li><strong>10-minute oral presentation</strong> (+5 minutes for
+<li><p><strong>A slide deck</strong> focusing on methodology,
+experiments, and results. Do <strong>not</strong> include data
+description in your presentation; focus on the rationale behind your
+methodological choices.</p></li>
+<li><p><strong>10-minute oral presentation</strong> (+5 minutes for
 questions). The focus should be on the rationale for your methodological
-approach, the experimental process, and key findings.</li>
-<li><strong>Code</strong> (Rmd or Jupyter notebook format) to be
-submitted by the morning of the exam date.</li>
+approach, the experimental process, and key findings.</p></li>
+<li><p><strong>Code</strong> (Rmd or Jupyter notebook format) to be
+submitted by the morning of the exam date.</p></li>
 </ul>
 </div>
 </div>
 <div id="references" class="section level1">
 <h1>References</h1>
-<p>Kirchhof P, Benussi S, Kotecha D, Ahlsson A, Atar D, Casadei B, et
-al. 2016 ESC Guidelines for the management of atrial fibrillation
-developed in collaboration with EACTS. Europace. 2016. pp. 1609–1678. <a href="pmid:27567465" class="uri">pmid:27567465</a></p>
-<p>Geraets DR. Atrial fibrillation and atrial flutter. In: Clinical
-Pharmacy [Internet]. 1993 p. 721. Available: <a href="https://www.nbv.cardio.dk/af" class="uri">https://www.nbv.cardio.dk/af</a></p>
-<p>Schroder, J., Bouaziz, O., Agner, B. R., Martinussen, T., Madsen, P.
-L., Li, D., &amp; Dixen, U. (2019). Recurrent event survival analysis
-predicts future risk of hospitalization in patients with paroxysmal and
-persistent atrial fibrillation. Plos one, 14(6), e0217983.</p>
+<p>Johnson, Alistair, et al. “MIMIC-IV-ED” (version 2.2). PhysioNet
+(2023). RRID:SCR_007345. <a href="https://doi.org/10.13026/5ntk-km72" class="uri">https://doi.org/10.13026/5ntk-km72</a></p>
+<p>Xie, F., Zhou, J., Lee, J. W., Tan, M., Li, S., Rajnthern, L. S. O.,
+… &amp; Liu, N. (2022). Benchmarking emergency department prediction
+models with machine learning and public electronic health records.
+Scientific Data, 9(1), 658.</p>
 </div>
 
 
