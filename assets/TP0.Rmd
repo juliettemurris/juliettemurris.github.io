@@ -1,7 +1,6 @@
 ---
 title: 'TP0 : Analyse de survie'
 author: "Juliette Murris"
-date: "Janvier 2025"
 output:
   html_document: default
   word_document: default

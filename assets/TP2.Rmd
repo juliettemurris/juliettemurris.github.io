@@ -1,7 +1,7 @@
 ---
 title: "TP2"
+author: "Juliette Murris"
 output: html_document
-date: "2025-01-07"
 ---
 
 # Load necessary libraries
