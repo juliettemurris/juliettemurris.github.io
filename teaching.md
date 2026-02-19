@@ -5,7 +5,7 @@ slug: /teaching
 ---
 
 ### **Teaching**
-* Survival analysis – From introductive notions to machine learning, *MSc. Public Health and Massive Health Data – Université Paris Cité*
+* Survival analysis – From introductive notions to machine learning, *MSc. Public Health and Massive Health Data – Université Paris Cité* , link [[here](https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/sante-publique-K2NDGZO3/master-sante-publique-parcours-methodes-et-outils-pour-les-donnees-des-entrepots-en-sante-ancien-libelle-donnees-massives-en-sante-K168SJQL.html)] (since 2022)
     - Presentation [[html]({{ site.baseurl }}/assets/0_Presentation.html)]
     - Exam [[html]({{ site.baseurl }}/assets/Exam.html)]
     - Slides [[Course 1: Survival analysis]({{ site.baseurl }}/assets/M2_DMS_Survival_analysis.pdf)] [[Course 2: Competing and recurrent events]({{ site.baseurl }}/assets/M2_DMS_Competing_and_recurrent_events.pdf)] [[Course 3: Prediction models]({{ site.baseurl }}/assets/M2_DMS_Prediction_models.pdf)] [[Course 4: ML for survival analysis]({{ site.baseurl }}/assets/M2_DMS_ML_for_survival_analysis.pdf)]
@@ -27,7 +27,7 @@ slug: /teaching
 * Learning algorithms to measure unbiased effect of statins on overall survival amongst Covid+ patients, *M1 ENSAI* (2022)
 
 ### **Internship supervision**
-* Predicting Emergency Department Clinical Outcomes from MIMIC Electronic Health Records with Machine Learning, Max Planck Institute of Biochemistry, Department of Machine Learning and Systems Biology – Sofia R, BSc. Thesis, TUM/LMU Munich
+* Predicting Emergency Department Clinical Outcomes from MIMIC Electronic Health Records with Machine Learning, Max Planck Institute of Biochemistry, Department of Machine Learning and Systems Biology – Sofia R, _BSc. Thesis, TUM/LMU Munich_ (2025)
  
 * Interim analyses and conditional power in adaptive clinical trial design, CIC1418 APHP HEGP – Maud M, Research internship, *M1 ENSAI* (2023) <br> This work led to a presentation at *Journées de Biostatistique 2023* in Toulouse, France
 
