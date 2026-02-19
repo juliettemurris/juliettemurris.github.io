@@ -25,6 +25,8 @@ slug: /teaching
 * Learning algorithms to measure unbiased effect of statins on overall survival amongst Covid+ patients, *M1 ENSAI* (2022)
 
 ### **Internship supervision**
+* Predicting Emergency Department Clinical Outcomes from MIMIC Electronic Health Records with Machine Learning, Max Planck Institute of Biochemistry, Department of Machine Learning and Systems Biology - Sofia R, BSc. Thesis, TUM/LMU Munich
+ 
 * Interim analyses and conditional power in adaptive clinical trial design, CIC1418 APHP HEGP – Maud M, Research internship, *M1 ENSAI* (2023) <br> This work led to a presentation at *Journées de Biostatistique 2023* in Toulouse, France
 
 * Impact of multicollinearity of covariates in clinical trials randomization, CIC1418 APHP HEGP – Hugo C, Research internship, *M1 ENSAI* (2023) <br> This work led to a presentation at *Journées de Biostatistique 2023* in Toulouse, France
