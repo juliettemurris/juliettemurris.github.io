@@ -96,35 +96,8 @@ slug: /publications
     border-color: #333;
   }
 
-  .pub-card.first-author .pub-title::before {
-    content: '';
-    display: inline-block;
-    width: 6px;
-    height: 6px;
-    background: #b45309;
-    border-radius: 50%;
-    margin-right: 8px;
-    vertical-align: middle;
-    position: relative;
-    top: -1px;
-  }
 
-  .pub-legend {
-    display: flex;
-    align-items: center;
-    gap: 6px;
-    font-size: 0.75em;
-    color: #999;
-    margin-top: 40px;
-  }
 
-  .pub-legend-dot {
-    width: 6px;
-    height: 6px;
-    background: #b45309;
-    border-radius: 50%;
-    display: inline-block;
-  }
 
   @media (max-width: 600px) {
     .pub-link { margin-left: 0; margin-top: 4px; }
@@ -134,29 +107,17 @@ slug: /publications
 
 <div class="pub-section">
 
-  <p class="pub-intro">
-    Methodology, survival analysis, explainability &amp; clinical applications.
-  </p>
 
   <!-- ═══ 2025 ═══ -->
   <div class="pub-year-group">
     <div class="pub-year">2025</div>
 
-    <div class="pub-card first-author">
+    <div class="pub-card">
       <div class="pub-title">Random survival forests for the analysis of recurrent events for right-censored data, with or without a terminal event</div>
       <div class="pub-authors"><span class="me">Murris J</span>, Bouaziz O, Jakubczak M, Katsahian S, Lavenu A</div>
       <div class="pub-meta-row">
         <span class="pub-venue">BMC Medical Research Methodology</span>
         <a class="pub-link" href="https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-025-02678-z" target="_blank">paper ↗</a>
-      </div>
-    </div>
-    
-    <div class="pub-card">
-      <div class="pub-title">Fluid balance after cardiac arrest: any impact on outcome? Insights from the MIMIC IV database</div>
-      <div class="pub-authors">Didier J, <span class="me">Murris J</span>, et al.</div>
-      <div class="pub-meta-row">
-        <span class="pub-venue">Resuscitation Plus</span>
-        <a class="pub-link" href="https://www.sciencedirect.com/science/article/pii/S2666520425001742" target="_blank">paper ↗</a>
       </div>
     </div>
 
@@ -178,12 +139,21 @@ slug: /publications
       </div>
     </div>
 
-    <div class="pub-card first-author">
+    <div class="pub-card">
       <div class="pub-title">Bridging interpretability and survival endpoints in health technology assessment</div>
       <div class="pub-authors"><span class="me">Murris J</span>, Bhan M, Ducrot L, Katsahian S</div>
       <div class="pub-meta-row">
         <span class="pub-venue">Preprint</span>
         <a class="pub-link" href="https://hal.science/hal-04967719v1/document" target="_blank">paper ↗</a>
+      </div>
+    </div>
+
+    <div class="pub-card">
+      <div class="pub-title">Fluid balance after cardiac arrest: any impact on outcome? Insights from the MIMIC IV database</div>
+      <div class="pub-authors">Didier J, <span class="me">Murris J</span>, et al.</div>
+      <div class="pub-meta-row">
+        <span class="pub-venue">Resuscitation Plus</span>
+        <a class="pub-link" href="https://www.sciencedirect.com/science/article/pii/S2666520425001742" target="_blank">paper ↗</a>
       </div>
     </div>
   </div>
@@ -192,7 +162,7 @@ slug: /publications
   <div class="pub-year-group">
     <div class="pub-year">2024</div>
 
-    <div class="pub-card first-author">
+    <div class="pub-card">
       <div class="pub-title">Predicting Hospital Readmission after Cancer Surgery with Survival Analysis and Machine Learning</div>
       <div class="pub-authors"><span class="me">Murris J</span>, Katsahian S, Lavenu A</div>
       <div class="pub-meta-row">
@@ -201,7 +171,7 @@ slug: /publications
       </div>
     </div>
 
-    <div class="pub-card first-author">
+    <div class="pub-card">
       <div class="pub-title">A novel methodological framework for the analysis of health trajectories and survival outcomes in heart failure patients</div>
       <div class="pub-authors"><span class="me">Murris J</span>, Amadei T, Kirscher T, Klein A, Tropeano AI, Katsahian S</div>
       <div class="pub-meta-row">
@@ -242,7 +212,7 @@ slug: /publications
   <div class="pub-year-group">
     <div class="pub-year">2023</div>
 
-    <div class="pub-card first-author">
+    <div class="pub-card">
       <div class="pub-title">Health technology assessment of artificial intelligence-based medical devices: what healthcare stakeholders need to know</div>
       <div class="pub-authors">Farah L<span class="equal">*</span>, <span class="me">Murris J</span><span class="equal">*</span>, Borget I, Guilloux A, Martelli N, Katsahian S</div>
       <div class="pub-meta-row">
@@ -251,7 +221,7 @@ slug: /publications
       </div>
     </div>
 
-    <div class="pub-card first-author">
+    <div class="pub-card">
       <div class="pub-title">Towards filling the gap around recurrent events in high dimensional framework: literature review and early comparison</div>
       <div class="pub-authors"><span class="me">Murris J</span>, Charles-Nelson A, Tadmouri A, Lavenu A, Katsahian S</div>
       <div class="pub-meta-row">
@@ -324,9 +294,3 @@ slug: /publications
       </div>
     </div>
   </div>
-
-  <div class="pub-legend">
-    <span class="pub-legend-dot"></span> first / co-first author
-  </div>
-
-</div>
