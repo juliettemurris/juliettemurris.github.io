@@ -5,7 +5,7 @@ slug: /teaching
 ---
 
 ### **Teaching**
-* Topological Data Analysis - From theory to applications (Summer semester 2026), *BSc. Computer Science and Mathematics – LMU, Munich, Germany*
+* Topological Data Analysis – From theory to applications (Summer semester 2026), *BSc. Computer Science and Mathematics – LMU, Munich, Germany*
   
 * Survival analysis – From introductive notions to machine learning, *MSc. Public Health and Massive Health Data – Université Paris Cité, Paris, France* , link [[here](https://odf.u-paris.fr/fr/offre-de-formation/master-XB/sciences-technologies-sante-STS/sante-publique-K2NDGZO3/master-sante-publique-parcours-methodes-et-outils-pour-les-donnees-des-entrepots-en-sante-ancien-libelle-donnees-massives-en-sante-K168SJQL.html)] (since 2022)
     - Presentation [[html]({{ site.baseurl }}/assets/0_Presentation.html)]
