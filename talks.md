@@ -26,7 +26,7 @@ slug: /talks
 * Introducing recurrent events in high-dimensional frameworks [[slides]({{ site.baseurl }}/assets/20221118-JDB_Juliette_Murris.pdf)] <br> *Journées de Biostatistique*, November 2022, Rennes, France
 
 ### **Posters**
-* A Standardized Benchmark Framework for MALDI-TOF Based Antimicrobial Resistance Detection <br> *ESCMID*, April 2026, Munich Germany
+* A Standardized Benchmark Framework for MALDI-TOF Based Antimicrobial Resistance Detection <br> *ESCMID*, April 2026, Munich, Germany
 
 * Tree-Based Approaches for Interpretable Modeling in Healthcare [[long abstract](https://ojs.aaai.org/index.php/AIES/article/view/31904)] [[poster]({{ site.baseurl }}/assets/AIES_poster.pdf)] <br> *AI, Ethics and Society*, October 2024, San Jose (CA), USA
   
