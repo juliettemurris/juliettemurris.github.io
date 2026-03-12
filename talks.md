@@ -5,7 +5,7 @@ slug: /talks
 ---
 
 ### **Talks**
-* Survival Analysis of Recurrent Clinical Events: Combining Statistics and Machine Learning <br> *AIxBio Seminar, December 2025*, Munich, Germany
+* Survival Analysis of Recurrent Clinical Events: Combining Statistics and Machine Learning <br> *AIxBio Seminar*, December 2025, Munich, Germany
 
 * From point clouds to spatial protein organization: An introduction to Topological Data Analysis <br> *25th Forum of young mathematicians, Women in Maths*, November 2025, Bordeaux, France
 
