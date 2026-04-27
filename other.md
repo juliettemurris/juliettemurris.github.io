@@ -6,6 +6,7 @@ slug: /other
 
 ### **Peer review**
 Journals: Scientific Reports, Discover Artificial Intelligence, BMC
+Conference: RECOMB
 
 ### **Women in Mathematics**
 Whether in secondary school, college, university or professional life, being a woman or a member of a gender minority and wanting to pursue mathematics can sometimes lead to unwelcome comments, bad jokes and sexist behaviour. For this reason, I joined the <a href="https://femmes-et-maths.fr" target="_blank">Women in Maths</a> association to promote gender equality in mathematics, encourage women's participation in STEM fields, and create a supportive community for female mathematicians. Recent scientific research on the gender gap can be found <a href="https://www.nature.com/articles/s41586-025-09126-4" target="_blank">here</a>.
