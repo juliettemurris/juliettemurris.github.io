@@ -113,23 +113,27 @@ slug: /publications
     <ul class="pub-list">
 
       <li>
-        Didier, J., <span class="me">Murris, J.</span>, et al. (2025). Fluid balance after cardiac arrest: any impact on outcome? Insights from the MIMIC IV database. <i>Resuscitation Plus</i>. <a href="https://www.sciencedirect.com/science/article/pii/S2666520425001742" target="_blank">[paper]</a>
+        Nguyen, T.Q., Zhang, C., Linh, L., King, D.W., Vo, L.T., <span class="me">Murris, J.</span>, Zhang, S. &amp; Trung, N.D. (2026). Intelligent and inclusive EEG-driven authentication for gender fairness and cognitive impairment. <i>Intelligence &amp; Robotics</i>. <a href="https://www.oaepublish.com/articles/ir.2026.20?utm_campaign=website&utm_medium=email&utm_source=sendgrid.com" target="_blank">[paper]</a>
+      </li>
+      
+      <li>
+        Didier, J., <span class="me">Murris, J.</span>, [...] &amp; Bréchot, N. (2025). Fluid balance after cardiac arrest: any impact on outcome? Insights from the MIMIC IV database. <i>Resuscitation Plus</i>. <a href="https://www.sciencedirect.com/science/article/pii/S2666520425001742" target="_blank">[paper]</a>
       </li>
 
       <li>
-        Deyrat, J., [...] <span class="me">Murris, J.</span>, et al. (2024). Evolution of minimally invasive liver surgery in France over the last decade. <i>Surgical Endoscopy</i>. <a href="https://link.springer.com/article/10.1007/s00464-024-10951-3" target="_blank">[paper]</a>
+        Deyrat, J., [...] <span class="me">Murris, J.</span>, [...] &amp; Tzedakis, S. (2024). Evolution of minimally invasive liver surgery in France over the last decade. <i>Surgical Endoscopy</i>. <a href="https://link.springer.com/article/10.1007/s00464-024-10951-3" target="_blank">[paper]</a>
       </li>
 
       <li>
-        Poisson, J., [...] <span class="me">Murris, J.</span>, et al. (2024). Increased levels of GM-CSF and CXCL10 and low CD8+ memory stem T Cell count are markers of immunosenescence and severe COVID-19 in older people. <i>Immunity &amp; Ageing</i>. <a href="https://immunityageing.biomedcentral.com/articles/10.1186/s12979-024-00430-7" target="_blank">[paper]</a>
+        Poisson, J., [...] <span class="me">Murris, J.</span>, [...] &amp; Granier, C. (2024). Increased levels of GM-CSF and CXCL10 and low CD8+ memory stem T Cell count are markers of immunosenescence and severe COVID-19 in older people. <i>Immunity &amp; Ageing</i>. <a href="https://immunityageing.biomedcentral.com/articles/10.1186/s12979-024-00430-7" target="_blank">[paper]</a>
       </li>
 
       <li>
-        Arnoux, A., <span class="me">Murris, J.</span>, et al. (2024). Protocol for Fever Control Using External Cooling in Mechanically Ventilated Patients with Septic Shock: SEPSISCOOL II Randomised Controlled Trial. <i>BMJ Open</i>. <a href="https://bmjopen.bmj.com/content/14/1/e069430.long" target="_blank">[paper]</a>
+        Arnoux, A., <span class="me">Murris, J.</span>, [...] &amp; Schortgen, F. (2024). Protocol for Fever Control Using External Cooling in Mechanically Ventilated Patients with Septic Shock: SEPSISCOOL II Randomised Controlled Trial. <i>BMJ Open</i>. <a href="https://bmjopen.bmj.com/content/14/1/e069430.long" target="_blank">[paper]</a>
       </li>
 
       <li>
-        Degrave, R., <span class="me">Murris, J.</span>, et al. (2023). Risk factors for thromboembolic events in patients hospitalized for Covid-19 pneumonia. <i>Postgraduate Medical Journal</i>. <a href="https://academic.oup.com/pmj/advance-article-abstract/doi/10.1093/postmj/qgad104/7425479" target="_blank">[paper]</a>
+        Degrave, R., <span class="me">Murris, J.</span>, [...] &amp; Arlet, J.B. (2023). Risk factors for thromboembolic events in patients hospitalized for Covid-19 pneumonia. <i>Postgraduate Medical Journal</i>. <a href="https://academic.oup.com/pmj/advance-article-abstract/doi/10.1093/postmj/qgad104/7425479" target="_blank">[paper]</a>
       </li>
 
       <li>
@@ -137,7 +141,7 @@ slug: /publications
       </li>
 
       <li>
-        Devi-Marulkar, P., [...] <span class="me">Murris, J.</span>, et al. (2022). Regulatory T cells infiltrate the tumor-induced tertiary lymphoid structures and impose poor clinical outcome of patients with lung cancer. <i>Communications Biology</i>. <a href="https://www.nature.com/articles/s42003-022-04356-y" target="_blank">[paper]</a>
+        Devi-Marulkar, P., [...] <span class="me">Murris, J.</span>, [...] &amp; Dieu-Nosjean, M.C. (2022). Regulatory T cells infiltrate the tumor-induced tertiary lymphoid structures and impose poor clinical outcome of patients with lung cancer. <i>Communications Biology</i>. <a href="https://www.nature.com/articles/s42003-022-04356-y" target="_blank">[paper]</a>
       </li>
 
       <li>
@@ -145,7 +149,7 @@ slug: /publications
       </li>
 
       <li>
-        Gogas, H., [...] <span class="me">Murris, J.</span>, et al. (2021). Quality of life in patients with BRAF-mutant melanoma receiving the combination encorafenib plus binimetinib: results from the COLUMBUS phase III study. <i>European Journal of Cancer</i>. <a href="https://pubmed.ncbi.nlm.nih.gov/34091420/" target="_blank">[paper]</a>
+        Gogas, H., [...] <span class="me">Murris, J.</span>, [...] &amp; Flaherty, K. (2021). Quality of life in patients with BRAF-mutant melanoma receiving the combination encorafenib plus binimetinib: results from the COLUMBUS phase III study. <i>European Journal of Cancer</i>. <a href="https://pubmed.ncbi.nlm.nih.gov/34091420/" target="_blank">[paper]</a>
       </li>
 
     </ul>
