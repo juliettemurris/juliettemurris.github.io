@@ -14,7 +14,7 @@ slug: /teaching
     - TP [[TP0]({{ site.baseurl }}/assets/TP0.Rmd)] [[TP1]({{ site.baseurl }}/assets/TP1.Rmd)] [[TP2]({{ site.baseurl }}/assets/TP2.Rmd)] [[TP3]({{ site.baseurl }}/assets/TP3.ipynb)]
 
 ### **Project tutoring**
-* Topological Data Analysis for spatial protein organisation, *M1 ENSAE Paris* (2025)
+* Topological Data Analysis for spatial protein organisation, *M1 ENSAE Paris* (2026)
 
 * Interpretability for machine learning in survival framework, *M1 ENSAE Paris* (2024) [[github](https://github.com/malquier/Interpretability_of_Survival_Analysis)]
 
@@ -29,7 +29,9 @@ slug: /teaching
 * Learning algorithms to measure unbiased effect of statins on overall survival amongst Covid+ patients, *M1 ENSAI* (2022)
 
 ### **Internship supervision**
-* Predicting Emergency Department Clinical Outcomes from MIMIC Electronic Health Records with Machine Learning, Max Planck Institute of Biochemistry, Department of Machine Learning and Systems Biology – Sofia R, _BSc. Thesis, TUM/LMU Munich_ (2025)
+* Interpretability methods for sequence-to-expression models, , Max Planck Institute of Biochemistry, Department of Machine Learning and Systems Biology – Emma R, _MSc. Thesis, MVA ENS Pairs-Saclay_ (2026) 
+
+* Predicting emergency department clinical outcomes from MIMIC Electronic Health Records with machine learning, Max Planck Institute of Biochemistry, Department of Machine Learning and Systems Biology – Sofia R, _BSc. Thesis, TUM/LMU Munich_ (2025)
  
 * Interim analyses and conditional power in adaptive clinical trial design, CIC1418 APHP HEGP – Maud M, Research internship, *M1 ENSAI* (2023) <br> This work led to a presentation at *Journées de Biostatistique 2023* in Toulouse, France
 
