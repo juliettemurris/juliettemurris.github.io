@@ -5,7 +5,7 @@ slug: /other
 ---
 
 ### **Peer review**
-Journals: Scientific Reports, Discover Artificial Intelligence, BMC
+Journals: The Lancet Digital Health, Scientific Reports, Discover Artificial Intelligence, BMC
 
 Conferences: RECOMB
 
