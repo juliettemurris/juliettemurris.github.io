@@ -29,7 +29,7 @@ slug: /teaching
 * Learning algorithms to measure unbiased effect of statins on overall survival amongst Covid+ patients, *M1 ENSAI* (2022)
 
 ### **Internship supervision**
-* Interpretability methods for sequence-to-expression models, , Max Planck Institute of Biochemistry, Department of Machine Learning and Systems Biology – Emma R, _MSc. Thesis, MVA ENS Pairs-Saclay_ (2026) 
+* Interpretability methods for sequence-to-expression models, , Max Planck Institute of Biochemistry, Department of Machine Learning and Systems Biology – Emma R, _MSc. Thesis, MVA ENS Paris-Saclay_ (2026) 
 
 * Predicting emergency department clinical outcomes from MIMIC Electronic Health Records with machine learning, Max Planck Institute of Biochemistry, Department of Machine Learning and Systems Biology – Sofia R, _BSc. Thesis, TUM/LMU Munich_ (2025)
  
